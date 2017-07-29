@@ -1,0 +1,4712 @@
+/usr/bin/python3.5 /home/mumingpo/PycharmProjects/RNN_dzz/t2.py
+0.601778 seconds elapsed since checkpoint 0
+0.003713 seconds elapsed since checkpoint 1
+0.124707 seconds elapsed since checkpoint 2
+0.007114 seconds elapsed since checkpoint 3
+2017-07-29 11:26:20.457202: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-29 11:26:20.457210: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+0.41796 seconds elapsed since checkpoint 4
+2017-07-29 11:26:20.457213: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-29 11:26:20.457215: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-29 11:26:20.457217: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+0.529046 seconds elapsed since checkpoint 5
+0
+0.147454 seconds elapsed since checkpoint 6
+8.78432
+1
+8.672113 seconds elapsed since checkpoint 7
+8.67525
+2
+8.317613 seconds elapsed since checkpoint 8
+8.48735
+3
+8.274665 seconds elapsed since checkpoint 9
+8.26342
+4
+8.149645 seconds elapsed since checkpoint 10
+8.33774
+5
+8.215192 seconds elapsed since checkpoint 11
+7.94742
+6
+8.245886 seconds elapsed since checkpoint 12
+7.90093
+7
+8.442763 seconds elapsed since checkpoint 13
+7.75271
+8
+8.121042 seconds elapsed since checkpoint 14
+7.55303
+9
+8.276869 seconds elapsed since checkpoint 15
+7.42569
+10
+8.281539 seconds elapsed since checkpoint 16
+7.33696
+11
+8.306704 seconds elapsed since checkpoint 17
+7.07007
+12
+8.12486 seconds elapsed since checkpoint 18
+7.3302
+13
+8.305262 seconds elapsed since checkpoint 19
+6.76167
+14
+8.287046 seconds elapsed since checkpoint 20
+6.7373
+15
+8.277461 seconds elapsed since checkpoint 21
+6.65873
+16
+8.139417 seconds elapsed since checkpoint 22
+6.73571
+17
+8.23385 seconds elapsed since checkpoint 23
+6.1114
+18
+8.272592 seconds elapsed since checkpoint 24
+6.21371
+19
+8.281033 seconds elapsed since checkpoint 25
+5.93625
+20
+8.18464 seconds elapsed since checkpoint 26
+5.50264
+21
+8.270521 seconds elapsed since checkpoint 27
+5.38126
+22
+8.44568 seconds elapsed since checkpoint 28
+5.03171
+23
+8.209782 seconds elapsed since checkpoint 29
+4.64595
+24
+8.259397 seconds elapsed since checkpoint 30
+4.86158
+25
+8.29315 seconds elapsed since checkpoint 31
+5.35194
+26
+8.263243 seconds elapsed since checkpoint 32
+4.91298
+27
+8.178229 seconds elapsed since checkpoint 33
+4.78011
+28
+8.271777 seconds elapsed since checkpoint 34
+4.67766
+29
+8.277069 seconds elapsed since checkpoint 35
+5.94318
+30
+8.31443 seconds elapsed since checkpoint 36
+4.86465
+31
+8.22257 seconds elapsed since checkpoint 37
+4.80768
+32
+8.233837 seconds elapsed since checkpoint 38
+5.05996
+33
+8.249296 seconds elapsed since checkpoint 39
+4.21505
+34
+8.290316 seconds elapsed since checkpoint 40
+3.88504
+35
+8.139438 seconds elapsed since checkpoint 41
+4.38272
+36
+8.241391 seconds elapsed since checkpoint 42
+5.06705
+37
+8.430475 seconds elapsed since checkpoint 43
+4.6761
+38
+8.270809 seconds elapsed since checkpoint 44
+4.56225
+39
+8.208026 seconds elapsed since checkpoint 45
+3.38107
+40
+8.49371 seconds elapsed since checkpoint 46
+4.7467
+41
+8.407054 seconds elapsed since checkpoint 47
+3.41137
+42
+8.329936 seconds elapsed since checkpoint 48
+4.40113
+43
+8.197056 seconds elapsed since checkpoint 49
+4.03246
+44
+8.327319 seconds elapsed since checkpoint 50
+4.31857
+45
+8.439096 seconds elapsed since checkpoint 51
+3.8476
+46
+8.334661 seconds elapsed since checkpoint 52
+3.98052
+47
+8.215281 seconds elapsed since checkpoint 53
+4.14325
+48
+8.313404 seconds elapsed since checkpoint 54
+3.63438
+49
+8.361645 seconds elapsed since checkpoint 55
+4.40669
+50
+8.315049 seconds elapsed since checkpoint 56
+4.05466
+51
+8.191838 seconds elapsed since checkpoint 57
+3.66727
+52
+8.485865 seconds elapsed since checkpoint 58
+3.45408
+53
+8.292908 seconds elapsed since checkpoint 59
+4.07306
+54
+8.366043 seconds elapsed since checkpoint 60
+4.14653
+55
+8.286494 seconds elapsed since checkpoint 61
+4.56439
+56
+8.41652 seconds elapsed since checkpoint 62
+3.63428
+57
+8.43018 seconds elapsed since checkpoint 63
+3.5479
+58
+8.401705 seconds elapsed since checkpoint 64
+3.19472
+59
+8.296566 seconds elapsed since checkpoint 65
+3.92794
+60
+8.437356 seconds elapsed since checkpoint 66
+3.73364
+61
+8.448853 seconds elapsed since checkpoint 67
+3.81197
+62
+8.414862 seconds elapsed since checkpoint 68
+3.83334
+63
+8.295365 seconds elapsed since checkpoint 69
+3.73894
+64
+8.416019 seconds elapsed since checkpoint 70
+3.18822
+65
+8.407511 seconds elapsed since checkpoint 71
+3.88539
+66
+8.484379 seconds elapsed since checkpoint 72
+4.45289
+67
+8.367717 seconds elapsed since checkpoint 73
+4.14778
+68
+8.362059 seconds elapsed since checkpoint 74
+4.6543
+69
+8.330898 seconds elapsed since checkpoint 75
+4.28761
+70
+8.169998 seconds elapsed since checkpoint 76
+4.35723
+71
+8.252619 seconds elapsed since checkpoint 77
+4.57665
+72
+8.372305 seconds elapsed since checkpoint 78
+4.71489
+73
+8.312868 seconds elapsed since checkpoint 79
+4.65247
+74
+8.148287 seconds elapsed since checkpoint 80
+4.34837
+75
+8.246601 seconds elapsed since checkpoint 81
+4.2806
+76
+8.310287 seconds elapsed since checkpoint 82
+4.48337
+77
+8.278126 seconds elapsed since checkpoint 83
+4.25511
+78
+8.116057 seconds elapsed since checkpoint 84
+4.60799
+79
+8.207462 seconds elapsed since checkpoint 85
+4.67459
+80
+8.265189 seconds elapsed since checkpoint 86
+4.19946
+81
+8.497178 seconds elapsed since checkpoint 87
+4.38967
+82
+8.183924 seconds elapsed since checkpoint 88
+4.6768
+83
+8.287994 seconds elapsed since checkpoint 89
+4.62463
+84
+8.304417 seconds elapsed since checkpoint 90
+4.75154
+85
+8.353784 seconds elapsed since checkpoint 91
+5.32983
+86
+8.160511 seconds elapsed since checkpoint 92
+4.57922
+87
+8.326723 seconds elapsed since checkpoint 93
+4.5923
+88
+8.198723 seconds elapsed since checkpoint 94
+4.2656
+89
+8.284133 seconds elapsed since checkpoint 95
+4.64723
+90
+8.113287 seconds elapsed since checkpoint 96
+4.94102
+91
+8.207248 seconds elapsed since checkpoint 97
+5.25756
+92
+8.311732 seconds elapsed since checkpoint 98
+5.1606
+93
+8.239061 seconds elapsed since checkpoint 99
+4.54092
+94
+8.257302 seconds elapsed since checkpoint 100
+4.51991
+95
+8.271684 seconds elapsed since checkpoint 101
+4.31429
+96
+8.519344 seconds elapsed since checkpoint 102
+4.44714
+97
+8.34847 seconds elapsed since checkpoint 103
+4.38645
+98
+8.066988 seconds elapsed since checkpoint 104
+5.02269
+99
+8.303587 seconds elapsed since checkpoint 105
+4.74381
+100
+8.274377 seconds elapsed since checkpoint 106
+5.09263
+101
+8.323702 seconds elapsed since checkpoint 107
+5.12396
+102
+8.152267 seconds elapsed since checkpoint 108
+5.99951
+103
+8.358308 seconds elapsed since checkpoint 109
+4.96884
+104
+8.275929 seconds elapsed since checkpoint 110
+4.4759
+105
+8.317388 seconds elapsed since checkpoint 111
+4.80862
+106
+8.161822 seconds elapsed since checkpoint 112
+4.71304
+107
+8.379724 seconds elapsed since checkpoint 113
+4.78264
+108
+8.313122 seconds elapsed since checkpoint 114
+4.26021
+109
+8.285454 seconds elapsed since checkpoint 115
+4.24672
+110
+8.228917 seconds elapsed since checkpoint 116
+4.64641
+111
+8.402407 seconds elapsed since checkpoint 117
+5.29246
+112
+8.460721 seconds elapsed since checkpoint 118
+4.39586
+113
+8.185505 seconds elapsed since checkpoint 119
+5.20521
+114
+8.236074 seconds elapsed since checkpoint 120
+4.87651
+115
+8.240424 seconds elapsed since checkpoint 121
+4.37544
+116
+8.28067 seconds elapsed since checkpoint 122
+4.63523
+117
+8.178909 seconds elapsed since checkpoint 123
+5.02455
+118
+8.311943 seconds elapsed since checkpoint 124
+4.70202
+119
+8.287583 seconds elapsed since checkpoint 125
+4.44071
+120
+8.247187 seconds elapsed since checkpoint 126
+4.96115
+121
+8.255652 seconds elapsed since checkpoint 127
+4.6987
+122
+8.268332 seconds elapsed since checkpoint 128
+4.38767
+123
+8.381831 seconds elapsed since checkpoint 129
+4.76365
+124
+8.232706 seconds elapsed since checkpoint 130
+4.55627
+125
+8.233903 seconds elapsed since checkpoint 131
+4.47205
+126
+8.4101 seconds elapsed since checkpoint 132
+4.33043
+127
+8.212875 seconds elapsed since checkpoint 133
+4.41524
+128
+8.346623 seconds elapsed since checkpoint 134
+5.13248
+129
+8.18962 seconds elapsed since checkpoint 135
+4.68744
+130
+8.23756 seconds elapsed since checkpoint 136
+4.18552
+131
+8.2391 seconds elapsed since checkpoint 137
+4.45351
+132
+8.324702 seconds elapsed since checkpoint 138
+4.34454
+133
+8.091633 seconds elapsed since checkpoint 139
+4.71674
+134
+8.258033 seconds elapsed since checkpoint 140
+4.30906
+135
+8.282724 seconds elapsed since checkpoint 141
+4.67789
+136
+8.281197 seconds elapsed since checkpoint 142
+4.51384
+137
+8.163373 seconds elapsed since checkpoint 143
+4.42605
+138
+8.256514 seconds elapsed since checkpoint 144
+5.33666
+139
+8.227514 seconds elapsed since checkpoint 145
+4.96268
+140
+8.547282 seconds elapsed since checkpoint 146
+5.31027
+141
+8.206891 seconds elapsed since checkpoint 147
+4.43946
+142
+8.290553 seconds elapsed since checkpoint 148
+4.37641
+143
+8.217369 seconds elapsed since checkpoint 149
+4.67189
+144
+8.301061 seconds elapsed since checkpoint 150
+4.24563
+145
+8.103237 seconds elapsed since checkpoint 151
+4.68563
+146
+8.322213 seconds elapsed since checkpoint 152
+4.27424
+147
+8.319692 seconds elapsed since checkpoint 153
+4.42868
+148
+8.252096 seconds elapsed since checkpoint 154
+4.7203
+149
+8.149738 seconds elapsed since checkpoint 155
+4.43819
+150
+8.381499 seconds elapsed since checkpoint 156
+4.48701
+151
+8.292962 seconds elapsed since checkpoint 157
+4.26508
+152
+8.390288 seconds elapsed since checkpoint 158
+4.30244
+153
+8.087079 seconds elapsed since checkpoint 159
+4.51328
+154
+8.327662 seconds elapsed since checkpoint 160
+4.20685
+155
+8.513572 seconds elapsed since checkpoint 161
+4.26391
+156
+8.211699 seconds elapsed since checkpoint 162
+4.36965
+157
+8.241161 seconds elapsed since checkpoint 163
+4.33069
+158
+8.287668 seconds elapsed since checkpoint 164
+4.32426
+159
+8.299239 seconds elapsed since checkpoint 165
+4.30104
+160
+8.127727 seconds elapsed since checkpoint 166
+4.58323
+161
+8.245539 seconds elapsed since checkpoint 167
+4.18039
+162
+8.302914 seconds elapsed since checkpoint 168
+4.63641
+163
+8.345488 seconds elapsed since checkpoint 169
+4.52851
+164
+8.159529 seconds elapsed since checkpoint 170
+4.20932
+165
+8.294942 seconds elapsed since checkpoint 171
+4.23503
+166
+8.240046 seconds elapsed since checkpoint 172
+4.71095
+167
+8.232839 seconds elapsed since checkpoint 173
+4.67545
+168
+8.158797 seconds elapsed since checkpoint 174
+4.76238
+169
+8.278585 seconds elapsed since checkpoint 175
+4.43919
+170
+8.516167 seconds elapsed since checkpoint 176
+4.38424
+171
+8.236655 seconds elapsed since checkpoint 177
+4.49068
+172
+8.188695 seconds elapsed since checkpoint 178
+4.3023
+173
+8.239947 seconds elapsed since checkpoint 179
+4.13624
+174
+8.292367 seconds elapsed since checkpoint 180
+4.11362
+175
+8.318197 seconds elapsed since checkpoint 181
+4.15893
+176
+8.259284 seconds elapsed since checkpoint 182
+4.45283
+177
+8.348137 seconds elapsed since checkpoint 183
+4.62517
+178
+8.298152 seconds elapsed since checkpoint 184
+4.42736
+179
+8.282718 seconds elapsed since checkpoint 185
+4.21273
+180
+8.139704 seconds elapsed since checkpoint 186
+4.37615
+181
+8.329875 seconds elapsed since checkpoint 187
+4.51802
+182
+8.194453 seconds elapsed since checkpoint 188
+4.33922
+183
+8.299005 seconds elapsed since checkpoint 189
+4.53195
+184
+8.17092 seconds elapsed since checkpoint 190
+4.25211
+185
+8.439325 seconds elapsed since checkpoint 191
+4.45347
+186
+8.31596 seconds elapsed since checkpoint 192
+4.17564
+187
+8.306509 seconds elapsed since checkpoint 193
+4.19774
+188
+8.170915 seconds elapsed since checkpoint 194
+4.19316
+189
+8.351963 seconds elapsed since checkpoint 195
+4.31914
+190
+8.476548 seconds elapsed since checkpoint 196
+4.2232
+191
+8.276521 seconds elapsed since checkpoint 197
+4.33381
+192
+8.251289 seconds elapsed since checkpoint 198
+4.35167
+193
+8.380735 seconds elapsed since checkpoint 199
+4.1161
+194
+8.345668 seconds elapsed since checkpoint 200
+4.39353
+195
+8.340648 seconds elapsed since checkpoint 201
+4.28268
+196
+8.177973 seconds elapsed since checkpoint 202
+4.14536
+197
+8.313946 seconds elapsed since checkpoint 203
+4.39114
+198
+8.274297 seconds elapsed since checkpoint 204
+4.40379
+199
+8.272898 seconds elapsed since checkpoint 205
+4.42654
+200
+8.295074 seconds elapsed since checkpoint 206
+4.62424
+201
+8.239962 seconds elapsed since checkpoint 207
+4.21866
+202
+8.271336 seconds elapsed since checkpoint 208
+4.47324
+203
+8.19256 seconds elapsed since checkpoint 209
+4.20999
+204
+8.264958 seconds elapsed since checkpoint 210
+4.43531
+205
+8.31405 seconds elapsed since checkpoint 211
+4.26329
+206
+8.285527 seconds elapsed since checkpoint 212
+4.11074
+207
+8.177263 seconds elapsed since checkpoint 213
+4.36813
+208
+8.302305 seconds elapsed since checkpoint 214
+4.27613
+209
+8.167005 seconds elapsed since checkpoint 215
+4.37724
+210
+8.280947 seconds elapsed since checkpoint 216
+4.18268
+211
+8.195645 seconds elapsed since checkpoint 217
+4.21725
+212
+8.276295 seconds elapsed since checkpoint 218
+4.4356
+213
+8.237111 seconds elapsed since checkpoint 219
+4.29452
+214
+8.530164 seconds elapsed since checkpoint 220
+4.32625
+215
+8.119126 seconds elapsed since checkpoint 221
+4.22499
+216
+8.245 seconds elapsed since checkpoint 222
+4.30559
+217
+8.258156 seconds elapsed since checkpoint 223
+4.27393
+218
+8.351483 seconds elapsed since checkpoint 224
+4.48534
+219
+8.218409 seconds elapsed since checkpoint 225
+4.77958
+220
+8.396304 seconds elapsed since checkpoint 226
+4.13905
+221
+8.334591 seconds elapsed since checkpoint 227
+4.06398
+222
+8.246257 seconds elapsed since checkpoint 228
+4.26949
+223
+8.162416 seconds elapsed since checkpoint 229
+4.31324
+224
+8.269759 seconds elapsed since checkpoint 230
+4.36526
+225
+8.214335 seconds elapsed since checkpoint 231
+4.20226
+226
+8.29599 seconds elapsed since checkpoint 232
+4.32061
+227
+8.225926 seconds elapsed since checkpoint 233
+4.10261
+228
+8.342237 seconds elapsed since checkpoint 234
+4.22313
+229
+8.445292 seconds elapsed since checkpoint 235
+4.14878
+230
+8.211582 seconds elapsed since checkpoint 236
+4.11734
+231
+8.127156 seconds elapsed since checkpoint 237
+4.09729
+232
+8.265852 seconds elapsed since checkpoint 238
+4.89234
+233
+8.278882 seconds elapsed since checkpoint 239
+4.14551
+234
+8.174939 seconds elapsed since checkpoint 240
+4.74359
+235
+8.054285 seconds elapsed since checkpoint 241
+4.39727
+236
+8.303262 seconds elapsed since checkpoint 242
+4.07611
+237
+8.287857 seconds elapsed since checkpoint 243
+4.26901
+238
+8.352252 seconds elapsed since checkpoint 244
+4.21073
+239
+8.141132 seconds elapsed since checkpoint 245
+4.34706
+240
+8.3466 seconds elapsed since checkpoint 246
+4.358
+241
+8.329873 seconds elapsed since checkpoint 247
+4.12202
+242
+8.239841 seconds elapsed since checkpoint 248
+4.06866
+243
+8.090919 seconds elapsed since checkpoint 249
+4.25459
+244
+8.440386 seconds elapsed since checkpoint 250
+4.15245
+245
+8.316784 seconds elapsed since checkpoint 251
+4.29383
+246
+8.099539 seconds elapsed since checkpoint 252
+4.8316
+247
+8.251343 seconds elapsed since checkpoint 253
+4.38877
+248
+8.268111 seconds elapsed since checkpoint 254
+4.39146
+249
+8.296031 seconds elapsed since checkpoint 255
+4.22699
+250
+8.072336 seconds elapsed since checkpoint 256
+4.4266
+251
+8.177176 seconds elapsed since checkpoint 257
+4.62402
+252
+8.186302 seconds elapsed since checkpoint 258
+4.14159
+253
+8.255719 seconds elapsed since checkpoint 259
+4.83517
+254
+8.243093 seconds elapsed since checkpoint 260
+4.19725
+255
+8.258967 seconds elapsed since checkpoint 261
+4.66278
+256
+8.289423 seconds elapsed since checkpoint 262
+4.58313
+257
+8.297793 seconds elapsed since checkpoint 263
+4.33686
+258
+8.087999 seconds elapsed since checkpoint 264
+4.6255
+259
+8.380401 seconds elapsed since checkpoint 265
+4.47881
+260
+8.381222 seconds elapsed since checkpoint 266
+4.9663
+261
+8.200077 seconds elapsed since checkpoint 267
+4.11045
+262
+8.293172 seconds elapsed since checkpoint 268
+4.44358
+263
+8.248446 seconds elapsed since checkpoint 269
+4.01806
+264
+8.257584 seconds elapsed since checkpoint 270
+4.0477
+265
+8.259024 seconds elapsed since checkpoint 271
+4.04986
+266
+8.094819 seconds elapsed since checkpoint 272
+4.3337
+267
+8.280873 seconds elapsed since checkpoint 273
+4.33688
+268
+8.158182 seconds elapsed since checkpoint 274
+4.26573
+269
+8.349132 seconds elapsed since checkpoint 275
+4.0692
+270
+8.20595 seconds elapsed since checkpoint 276
+4.27078
+271
+8.234381 seconds elapsed since checkpoint 277
+4.59465
+272
+8.233715 seconds elapsed since checkpoint 278
+4.11263
+273
+8.591528 seconds elapsed since checkpoint 279
+4.32673
+274
+8.187396 seconds elapsed since checkpoint 280
+4.42063
+275
+8.304737 seconds elapsed since checkpoint 281
+4.22887
+276
+8.237379 seconds elapsed since checkpoint 282
+4.34506
+277
+8.28795 seconds elapsed since checkpoint 283
+4.11106
+278
+8.209909 seconds elapsed since checkpoint 284
+4.24077
+279
+8.2178 seconds elapsed since checkpoint 285
+4.03072
+280
+8.282086 seconds elapsed since checkpoint 286
+4.43206
+281
+8.398055 seconds elapsed since checkpoint 287
+4.2759
+282
+8.245368 seconds elapsed since checkpoint 288
+4.20764
+283
+8.315839 seconds elapsed since checkpoint 289
+4.24187
+284
+8.356266 seconds elapsed since checkpoint 290
+4.18966
+285
+8.328173 seconds elapsed since checkpoint 291
+4.21029
+286
+8.261275 seconds elapsed since checkpoint 292
+4.22165
+287
+8.255334 seconds elapsed since checkpoint 293
+4.07082
+288
+8.510339 seconds elapsed since checkpoint 294
+4.51329
+289
+8.161209 seconds elapsed since checkpoint 295
+4.16628
+290
+8.19083 seconds elapsed since checkpoint 296
+4.19126
+291
+8.351112 seconds elapsed since checkpoint 297
+4.19695
+292
+8.26916 seconds elapsed since checkpoint 298
+4.29397
+293
+8.239598 seconds elapsed since checkpoint 299
+4.27646
+294
+8.204486 seconds elapsed since checkpoint 300
+4.42967
+295
+8.361644 seconds elapsed since checkpoint 301
+4.06453
+296
+8.205409 seconds elapsed since checkpoint 302
+4.12668
+297
+8.188772 seconds elapsed since checkpoint 303
+4.15274
+298
+8.185366 seconds elapsed since checkpoint 304
+4.44669
+299
+8.248211 seconds elapsed since checkpoint 305
+4.52462
+300
+8.343101 seconds elapsed since checkpoint 306
+4.19395
+301
+8.196047 seconds elapsed since checkpoint 307
+4.44866
+302
+8.176471 seconds elapsed since checkpoint 308
+4.20095
+303
+8.527706 seconds elapsed since checkpoint 309
+4.04592
+304
+8.226711 seconds elapsed since checkpoint 310
+4.46054
+305
+8.219802 seconds elapsed since checkpoint 311
+4.06619
+306
+8.193859 seconds elapsed since checkpoint 312
+4.15697
+307
+8.223983 seconds elapsed since checkpoint 313
+4.7806
+308
+8.213708 seconds elapsed since checkpoint 314
+4.11148
+309
+8.072838 seconds elapsed since checkpoint 315
+4.26957
+310
+8.249833 seconds elapsed since checkpoint 316
+4.43289
+311
+8.2576 seconds elapsed since checkpoint 317
+4.16778
+312
+8.262985 seconds elapsed since checkpoint 318
+4.2485
+313
+8.105089 seconds elapsed since checkpoint 319
+4.15188
+314
+8.299009 seconds elapsed since checkpoint 320
+4.22077
+315
+8.266346 seconds elapsed since checkpoint 321
+4.19713
+316
+8.207909 seconds elapsed since checkpoint 322
+4.02883
+317
+8.168799 seconds elapsed since checkpoint 323
+4.84819
+318
+8.473418 seconds elapsed since checkpoint 324
+4.10452
+319
+8.29702 seconds elapsed since checkpoint 325
+4.00209
+320
+8.222861 seconds elapsed since checkpoint 326
+4.27332
+321
+8.213446 seconds elapsed since checkpoint 327
+4.0675
+322
+8.291327 seconds elapsed since checkpoint 328
+4.31617
+323
+8.290034 seconds elapsed since checkpoint 329
+4.35813
+324
+8.297675 seconds elapsed since checkpoint 330
+4.24626
+325
+8.148986 seconds elapsed since checkpoint 331
+4.29345
+326
+8.289277 seconds elapsed since checkpoint 332
+4.12628
+327
+8.351835 seconds elapsed since checkpoint 333
+4.18283
+328
+8.3003 seconds elapsed since checkpoint 334
+4.09677
+329
+8.202482 seconds elapsed since checkpoint 335
+4.3606
+330
+8.23968 seconds elapsed since checkpoint 336
+4.1969
+331
+8.18798 seconds elapsed since checkpoint 337
+4.01594
+332
+8.319776 seconds elapsed since checkpoint 338
+4.04034
+333
+8.211326 seconds elapsed since checkpoint 339
+4.04561
+334
+8.250367 seconds elapsed since checkpoint 340
+4.52821
+335
+8.279743 seconds elapsed since checkpoint 341
+4.13124
+336
+8.224588 seconds elapsed since checkpoint 342
+4.24295
+337
+8.203866 seconds elapsed since checkpoint 343
+4.15909
+338
+8.243667 seconds elapsed since checkpoint 344
+4.15373
+339
+8.362169 seconds elapsed since checkpoint 345
+4.20176
+340
+8.141103 seconds elapsed since checkpoint 346
+4.0332
+341
+8.231117 seconds elapsed since checkpoint 347
+4.34899
+342
+8.273635 seconds elapsed since checkpoint 348
+4.43638
+343
+8.284457 seconds elapsed since checkpoint 349
+4.57724
+344
+8.227585 seconds elapsed since checkpoint 350
+4.26676
+345
+8.290135 seconds elapsed since checkpoint 351
+4.38861
+346
+8.320972 seconds elapsed since checkpoint 352
+4.10015
+347
+8.445073 seconds elapsed since checkpoint 353
+4.16958
+348
+8.153018 seconds elapsed since checkpoint 354
+4.24288
+349
+8.26622 seconds elapsed since checkpoint 355
+4.14728
+350
+8.327377 seconds elapsed since checkpoint 356
+4.0534
+351
+8.342637 seconds elapsed since checkpoint 357
+4.38739
+352
+8.207509 seconds elapsed since checkpoint 358
+4.06463
+353
+8.310323 seconds elapsed since checkpoint 359
+4.16513
+354
+8.353155 seconds elapsed since checkpoint 360
+4.38188
+355
+8.261311 seconds elapsed since checkpoint 361
+4.8125
+356
+8.13283 seconds elapsed since checkpoint 362
+4.46707
+357
+8.224704 seconds elapsed since checkpoint 363
+4.37877
+358
+8.367117 seconds elapsed since checkpoint 364
+4.19305
+359
+8.398249 seconds elapsed since checkpoint 365
+4.11927
+360
+8.193796 seconds elapsed since checkpoint 366
+4.25819
+361
+8.336128 seconds elapsed since checkpoint 367
+4.95704
+362
+8.477691 seconds elapsed since checkpoint 368
+4.1679
+363
+8.263012 seconds elapsed since checkpoint 369
+4.34102
+364
+8.197888 seconds elapsed since checkpoint 370
+4.11547
+365
+8.280065 seconds elapsed since checkpoint 371
+4.46244
+366
+8.267679 seconds elapsed since checkpoint 372
+4.19856
+367
+8.325909 seconds elapsed since checkpoint 373
+4.36193
+368
+8.159512 seconds elapsed since checkpoint 374
+4.3085
+369
+8.346262 seconds elapsed since checkpoint 375
+4.38048
+370
+8.320627 seconds elapsed since checkpoint 376
+4.35796
+371
+8.220036 seconds elapsed since checkpoint 377
+4.30597
+372
+8.106106 seconds elapsed since checkpoint 378
+4.28484
+373
+8.323966 seconds elapsed since checkpoint 379
+4.3801
+374
+8.250095 seconds elapsed since checkpoint 380
+4.40654
+375
+8.270131 seconds elapsed since checkpoint 381
+4.80431
+376
+8.159088 seconds elapsed since checkpoint 382
+4.33902
+377
+8.356151 seconds elapsed since checkpoint 383
+4.65555
+378
+8.319891 seconds elapsed since checkpoint 384
+5.65535
+379
+8.112959 seconds elapsed since checkpoint 385
+4.7872
+380
+8.172731 seconds elapsed since checkpoint 386
+4.79867
+381
+8.27121 seconds elapsed since checkpoint 387
+4.92983
+382
+8.291576 seconds elapsed since checkpoint 388
+5.0369
+383
+8.10922 seconds elapsed since checkpoint 389
+4.13235
+384
+8.343499 seconds elapsed since checkpoint 390
+4.31069
+385
+8.27752 seconds elapsed since checkpoint 391
+4.04329
+386
+8.234044 seconds elapsed since checkpoint 392
+4.73346
+387
+8.170142 seconds elapsed since checkpoint 393
+4.13263
+388
+8.277609 seconds elapsed since checkpoint 394
+4.05437
+389
+8.27912 seconds elapsed since checkpoint 395
+4.09837
+390
+8.302552 seconds elapsed since checkpoint 396
+4.12192
+391
+8.128566 seconds elapsed since checkpoint 397
+4.10033
+392
+8.364127 seconds elapsed since checkpoint 398
+4.07093
+393
+8.205928 seconds elapsed since checkpoint 399
+3.92085
+394
+8.324182 seconds elapsed since checkpoint 400
+3.65453
+395
+8.131957 seconds elapsed since checkpoint 401
+4.03574
+396
+8.296013 seconds elapsed since checkpoint 402
+3.97407
+397
+8.224727 seconds elapsed since checkpoint 403
+4.23653
+398
+8.27235 seconds elapsed since checkpoint 404
+4.22812
+399
+8.204149 seconds elapsed since checkpoint 405
+4.0048
+400
+8.272287 seconds elapsed since checkpoint 406
+4.06149
+401
+8.243647 seconds elapsed since checkpoint 407
+4.36548
+402
+8.310168 seconds elapsed since checkpoint 408
+4.03865
+403
+8.096334 seconds elapsed since checkpoint 409
+4.14781
+404
+8.221784 seconds elapsed since checkpoint 410
+4.03953
+405
+8.260486 seconds elapsed since checkpoint 411
+4.04697
+406
+8.411881 seconds elapsed since checkpoint 412
+4.26441
+407
+8.134775 seconds elapsed since checkpoint 413
+4.04387
+408
+8.397743 seconds elapsed since checkpoint 414
+3.87819
+409
+8.270011 seconds elapsed since checkpoint 415
+3.86697
+410
+8.374236 seconds elapsed since checkpoint 416
+4.33371
+411
+8.250797 seconds elapsed since checkpoint 417
+4.00326
+412
+8.250823 seconds elapsed since checkpoint 418
+4.21169
+413
+8.260339 seconds elapsed since checkpoint 419
+4.32083
+414
+8.235149 seconds elapsed since checkpoint 420
+4.26019
+415
+8.111741 seconds elapsed since checkpoint 421
+4.24978
+416
+8.155183 seconds elapsed since checkpoint 422
+4.02606
+417
+8.252081 seconds elapsed since checkpoint 423
+4.24742
+418
+8.190541 seconds elapsed since checkpoint 424
+4.10368
+419
+8.121481 seconds elapsed since checkpoint 425
+3.98133
+420
+8.285116 seconds elapsed since checkpoint 426
+3.84274
+421
+8.462108 seconds elapsed since checkpoint 427
+4.89556
+422
+8.070644 seconds elapsed since checkpoint 428
+4.15613
+423
+8.162928 seconds elapsed since checkpoint 429
+4.19315
+424
+8.252897 seconds elapsed since checkpoint 430
+4.02202
+425
+8.198924 seconds elapsed since checkpoint 431
+4.5267
+426
+8.158201 seconds elapsed since checkpoint 432
+4.65116
+427
+8.247669 seconds elapsed since checkpoint 433
+4.75174
+428
+8.179745 seconds elapsed since checkpoint 434
+4.20673
+429
+8.306351 seconds elapsed since checkpoint 435
+4.0327
+430
+8.232505 seconds elapsed since checkpoint 436
+4.09621
+431
+8.240539 seconds elapsed since checkpoint 437
+3.94616
+432
+8.334861 seconds elapsed since checkpoint 438
+4.1309
+433
+8.213603 seconds elapsed since checkpoint 439
+4.64722
+434
+8.196436 seconds elapsed since checkpoint 440
+4.09409
+435
+8.160267 seconds elapsed since checkpoint 441
+3.89985
+436
+8.405041 seconds elapsed since checkpoint 442
+4.09858
+437
+8.241244 seconds elapsed since checkpoint 443
+4.07265
+438
+8.19853 seconds elapsed since checkpoint 444
+4.50749
+439
+8.184547 seconds elapsed since checkpoint 445
+4.08201
+440
+8.277427 seconds elapsed since checkpoint 446
+4.02052
+441
+8.255127 seconds elapsed since checkpoint 447
+4.17536
+442
+8.031971 seconds elapsed since checkpoint 448
+3.86274
+443
+8.195175 seconds elapsed since checkpoint 449
+4.06061
+444
+8.263702 seconds elapsed since checkpoint 450
+4.12494
+445
+8.267368 seconds elapsed since checkpoint 451
+4.02043
+446
+8.096839 seconds elapsed since checkpoint 452
+3.88152
+447
+8.345195 seconds elapsed since checkpoint 453
+5.59884
+448
+8.24577 seconds elapsed since checkpoint 454
+4.17312
+449
+8.303216 seconds elapsed since checkpoint 455
+4.40571
+450
+8.070543 seconds elapsed since checkpoint 456
+3.9606
+451
+8.38037 seconds elapsed since checkpoint 457
+4.19379
+452
+8.183813 seconds elapsed since checkpoint 458
+4.18853
+453
+8.253772 seconds elapsed since checkpoint 459
+4.02196
+454
+8.110449 seconds elapsed since checkpoint 460
+4.24301
+455
+8.170748 seconds elapsed since checkpoint 461
+4.69255
+456
+8.197391 seconds elapsed since checkpoint 462
+3.81067
+457
+8.243086 seconds elapsed since checkpoint 463
+4.27606
+458
+8.157063 seconds elapsed since checkpoint 464
+4.1617
+459
+8.283209 seconds elapsed since checkpoint 465
+4.05908
+460
+8.278466 seconds elapsed since checkpoint 466
+4.01367
+461
+8.288304 seconds elapsed since checkpoint 467
+4.15311
+462
+8.090008 seconds elapsed since checkpoint 468
+4.28629
+463
+8.251186 seconds elapsed since checkpoint 469
+4.07043
+464
+8.23639 seconds elapsed since checkpoint 470
+4.02395
+465
+8.267535 seconds elapsed since checkpoint 471
+4.0472
+466
+8.231931 seconds elapsed since checkpoint 472
+4.08265
+467
+8.279585 seconds elapsed since checkpoint 473
+4.06232
+468
+8.265381 seconds elapsed since checkpoint 474
+4.2783
+469
+8.154961 seconds elapsed since checkpoint 475
+4.00276
+470
+8.194537 seconds elapsed since checkpoint 476
+4.25388
+471
+8.207766 seconds elapsed since checkpoint 477
+3.93955
+472
+8.262286 seconds elapsed since checkpoint 478
+4.02553
+473
+8.221302 seconds elapsed since checkpoint 479
+3.86395
+474
+8.198199 seconds elapsed since checkpoint 480
+4.22333
+475
+8.258657 seconds elapsed since checkpoint 481
+3.70598
+476
+8.114594 seconds elapsed since checkpoint 482
+4.04937
+477
+8.206796 seconds elapsed since checkpoint 483
+5.00428
+478
+8.128136 seconds elapsed since checkpoint 484
+3.97126
+479
+8.194285 seconds elapsed since checkpoint 485
+4.08753
+480
+8.397532 seconds elapsed since checkpoint 486
+4.13702
+481
+8.05312 seconds elapsed since checkpoint 487
+4.336
+482
+8.20219 seconds elapsed since checkpoint 488
+4.20644
+483
+8.17511 seconds elapsed since checkpoint 489
+4.37567
+484
+8.23186 seconds elapsed since checkpoint 490
+4.00451
+485
+8.101061 seconds elapsed since checkpoint 491
+4.32002
+486
+8.200366 seconds elapsed since checkpoint 492
+4.09023
+487
+8.210676 seconds elapsed since checkpoint 493
+4.22546
+488
+8.29009 seconds elapsed since checkpoint 494
+4.03658
+489
+8.162827 seconds elapsed since checkpoint 495
+4.01529
+490
+8.234668 seconds elapsed since checkpoint 496
+4.30397
+491
+8.216618 seconds elapsed since checkpoint 497
+3.99979
+492
+8.131891 seconds elapsed since checkpoint 498
+4.02579
+493
+8.225039 seconds elapsed since checkpoint 499
+4.02459
+494
+8.246272 seconds elapsed since checkpoint 500
+4.21642
+495
+8.447324 seconds elapsed since checkpoint 501
+3.96341
+496
+8.224203 seconds elapsed since checkpoint 502
+4.01759
+497
+8.121704 seconds elapsed since checkpoint 503
+4.0948
+498
+8.266512 seconds elapsed since checkpoint 504
+4.10083
+499
+8.222508 seconds elapsed since checkpoint 505
+4.50583
+500
+8.204124 seconds elapsed since checkpoint 506
+3.9503
+501
+8.092986 seconds elapsed since checkpoint 507
+4.54218
+502
+8.18162 seconds elapsed since checkpoint 508
+3.97651
+503
+8.185155 seconds elapsed since checkpoint 509
+3.96755
+504
+8.27907 seconds elapsed since checkpoint 510
+4.10761
+505
+8.196882 seconds elapsed since checkpoint 511
+4.15854
+506
+8.156343 seconds elapsed since checkpoint 512
+4.26628
+507
+8.217246 seconds elapsed since checkpoint 513
+4.09418
+508
+8.181146 seconds elapsed since checkpoint 514
+4.62109
+509
+8.154056 seconds elapsed since checkpoint 515
+4.32061
+510
+8.362972 seconds elapsed since checkpoint 516
+4.17256
+511
+8.204552 seconds elapsed since checkpoint 517
+4.35509
+512
+8.063277 seconds elapsed since checkpoint 518
+4.61594
+513
+8.259345 seconds elapsed since checkpoint 519
+4.19408
+514
+8.218275 seconds elapsed since checkpoint 520
+3.98093
+515
+8.250745 seconds elapsed since checkpoint 521
+4.69981
+516
+8.125125 seconds elapsed since checkpoint 522
+4.41563
+517
+8.26716 seconds elapsed since checkpoint 523
+4.14593
+518
+8.203511 seconds elapsed since checkpoint 524
+4.03314
+519
+8.192695 seconds elapsed since checkpoint 525
+4.11919
+520
+8.159584 seconds elapsed since checkpoint 526
+4.00315
+521
+8.201542 seconds elapsed since checkpoint 527
+4.23264
+522
+8.166841 seconds elapsed since checkpoint 528
+4.2817
+523
+8.27668 seconds elapsed since checkpoint 529
+4.19239
+524
+8.160628 seconds elapsed since checkpoint 530
+4.2544
+525
+8.385609 seconds elapsed since checkpoint 531
+4.06288
+526
+8.213957 seconds elapsed since checkpoint 532
+4.17816
+527
+8.189862 seconds elapsed since checkpoint 533
+4.11877
+528
+8.165313 seconds elapsed since checkpoint 534
+4.13612
+529
+8.24609 seconds elapsed since checkpoint 535
+4.32925
+530
+8.229535 seconds elapsed since checkpoint 536
+4.05413
+531
+8.278484 seconds elapsed since checkpoint 537
+4.67275
+532
+8.185563 seconds elapsed since checkpoint 538
+4.93897
+533
+8.248314 seconds elapsed since checkpoint 539
+4.06739
+534
+8.292291 seconds elapsed since checkpoint 540
+4.22968
+535
+8.197053 seconds elapsed since checkpoint 541
+3.90768
+536
+8.046684 seconds elapsed since checkpoint 542
+4.12817
+537
+8.128464 seconds elapsed since checkpoint 543
+4.02249
+538
+8.260096 seconds elapsed since checkpoint 544
+4.13509
+539
+8.371976 seconds elapsed since checkpoint 545
+3.86728
+540
+8.112632 seconds elapsed since checkpoint 546
+4.25456
+541
+8.163185 seconds elapsed since checkpoint 547
+4.37679
+542
+8.165209 seconds elapsed since checkpoint 548
+4.17181
+543
+8.223384 seconds elapsed since checkpoint 549
+4.11275
+544
+8.032748 seconds elapsed since checkpoint 550
+4.3499
+545
+8.231475 seconds elapsed since checkpoint 551
+4.16622
+546
+8.234536 seconds elapsed since checkpoint 552
+4.29756
+547
+8.325968 seconds elapsed since checkpoint 553
+4.12704
+548
+8.144186 seconds elapsed since checkpoint 554
+3.87007
+549
+8.253642 seconds elapsed since checkpoint 555
+4.14291
+550
+8.25372 seconds elapsed since checkpoint 556
+4.08065
+551
+8.231244 seconds elapsed since checkpoint 557
+4.05188
+552
+8.09203 seconds elapsed since checkpoint 558
+3.98529
+553
+8.21718 seconds elapsed since checkpoint 559
+4.18158
+554
+8.356069 seconds elapsed since checkpoint 560
+4.51745
+555
+8.18745 seconds elapsed since checkpoint 561
+4.11539
+556
+8.179879 seconds elapsed since checkpoint 562
+4.05091
+557
+8.265712 seconds elapsed since checkpoint 563
+4.8638
+558
+8.215162 seconds elapsed since checkpoint 564
+4.33179
+559
+8.074131 seconds elapsed since checkpoint 565
+4.20611
+560
+8.232663 seconds elapsed since checkpoint 566
+3.94756
+561
+8.219934 seconds elapsed since checkpoint 567
+3.97951
+562
+8.191443 seconds elapsed since checkpoint 568
+4.00168
+563
+8.078617 seconds elapsed since checkpoint 569
+4.15424
+564
+8.244927 seconds elapsed since checkpoint 570
+4.17094
+565
+8.251125 seconds elapsed since checkpoint 571
+4.17489
+566
+8.213701 seconds elapsed since checkpoint 572
+3.86516
+567
+8.12449 seconds elapsed since checkpoint 573
+4.54073
+568
+8.153672 seconds elapsed since checkpoint 574
+4.28065
+569
+8.367414 seconds elapsed since checkpoint 575
+3.88874
+570
+8.293934 seconds elapsed since checkpoint 576
+4.61052
+571
+8.169816 seconds elapsed since checkpoint 577
+4.05542
+572
+8.270248 seconds elapsed since checkpoint 578
+3.98712
+573
+8.159438 seconds elapsed since checkpoint 579
+3.97175
+574
+8.13665 seconds elapsed since checkpoint 580
+4.22657
+575
+8.020348 seconds elapsed since checkpoint 581
+4.37012
+576
+8.251883 seconds elapsed since checkpoint 582
+4.58081
+577
+8.205673 seconds elapsed since checkpoint 583
+4.12613
+578
+8.242923 seconds elapsed since checkpoint 584
+4.28545
+579
+8.186405 seconds elapsed since checkpoint 585
+3.96792
+580
+8.202391 seconds elapsed since checkpoint 586
+4.1831
+581
+8.164996 seconds elapsed since checkpoint 587
+4.02184
+582
+8.290346 seconds elapsed since checkpoint 588
+4.30389
+583
+8.116085 seconds elapsed since checkpoint 589
+4.17971
+584
+8.29891 seconds elapsed since checkpoint 590
+4.18704
+585
+8.262773 seconds elapsed since checkpoint 591
+3.95774
+586
+8.284617 seconds elapsed since checkpoint 592
+3.99425
+587
+8.091934 seconds elapsed since checkpoint 593
+4.16765
+588
+8.175308 seconds elapsed since checkpoint 594
+3.91519
+589
+8.208749 seconds elapsed since checkpoint 595
+4.16817
+590
+8.216335 seconds elapsed since checkpoint 596
+4.35264
+591
+8.147311 seconds elapsed since checkpoint 597
+4.10117
+592
+8.196998 seconds elapsed since checkpoint 598
+4.07835
+593
+8.270757 seconds elapsed since checkpoint 599
+4.09255
+594
+8.273312 seconds elapsed since checkpoint 600
+4.07503
+595
+8.033595 seconds elapsed since checkpoint 601
+4.18117
+596
+8.193478 seconds elapsed since checkpoint 602
+4.21818
+597
+8.289788 seconds elapsed since checkpoint 603
+4.05014
+598
+8.164601 seconds elapsed since checkpoint 604
+4.34771
+599
+8.116335 seconds elapsed since checkpoint 605
+4.44985
+600
+8.188433 seconds elapsed since checkpoint 606
+4.0023
+601
+8.224929 seconds elapsed since checkpoint 607
+4.03706
+602
+8.030565 seconds elapsed since checkpoint 608
+4.0956
+603
+8.149186 seconds elapsed since checkpoint 609
+4.32871
+604
+8.23805 seconds elapsed since checkpoint 610
+4.05251
+605
+8.175751 seconds elapsed since checkpoint 611
+4.39521
+606
+8.050727 seconds elapsed since checkpoint 612
+4.17575
+607
+8.23677 seconds elapsed since checkpoint 613
+4.06907
+608
+8.246436 seconds elapsed since checkpoint 614
+4.08576
+609
+8.24831 seconds elapsed since checkpoint 615
+4.23215
+610
+8.109114 seconds elapsed since checkpoint 616
+4.02006
+611
+8.207403 seconds elapsed since checkpoint 617
+3.97465
+612
+8.307666 seconds elapsed since checkpoint 618
+4.01984
+613
+8.370205 seconds elapsed since checkpoint 619
+4.37461
+614
+8.061832 seconds elapsed since checkpoint 620
+4.13965
+615
+8.227242 seconds elapsed since checkpoint 621
+4.03601
+616
+8.236051 seconds elapsed since checkpoint 622
+4.08169
+617
+8.232918 seconds elapsed since checkpoint 623
+4.13008
+618
+8.155878 seconds elapsed since checkpoint 624
+4.00974
+619
+8.193108 seconds elapsed since checkpoint 625
+4.16396
+620
+8.149931 seconds elapsed since checkpoint 626
+4.61867
+621
+8.229617 seconds elapsed since checkpoint 627
+4.23142
+622
+8.164161 seconds elapsed since checkpoint 628
+3.98389
+623
+8.184516 seconds elapsed since checkpoint 629
+4.78309
+624
+8.234452 seconds elapsed since checkpoint 630
+3.93044
+625
+8.222065 seconds elapsed since checkpoint 631
+4.03992
+626
+8.118158 seconds elapsed since checkpoint 632
+4.17988
+627
+8.172924 seconds elapsed since checkpoint 633
+4.25558
+628
+8.410244 seconds elapsed since checkpoint 634
+4.70073
+629
+8.263714 seconds elapsed since checkpoint 635
+4.14282
+630
+8.124621 seconds elapsed since checkpoint 636
+4.6189
+631
+8.168666 seconds elapsed since checkpoint 637
+4.39666
+632
+8.316483 seconds elapsed since checkpoint 638
+4.41202
+633
+8.264113 seconds elapsed since checkpoint 639
+4.22986
+634
+8.124012 seconds elapsed since checkpoint 640
+4.59646
+635
+8.189809 seconds elapsed since checkpoint 641
+4.25266
+636
+8.148351 seconds elapsed since checkpoint 642
+4.37703
+637
+8.308399 seconds elapsed since checkpoint 643
+4.49118
+638
+8.068071 seconds elapsed since checkpoint 644
+4.01966
+639
+8.261408 seconds elapsed since checkpoint 645
+4.08173
+640
+8.262628 seconds elapsed since checkpoint 646
+4.35418
+641
+8.199984 seconds elapsed since checkpoint 647
+4.27244
+642
+8.103104 seconds elapsed since checkpoint 648
+4.15864
+643
+8.301436 seconds elapsed since checkpoint 649
+4.08502
+644
+8.201265 seconds elapsed since checkpoint 650
+4.27755
+645
+8.036775 seconds elapsed since checkpoint 651
+4.1252
+646
+8.104427 seconds elapsed since checkpoint 652
+4.12805
+647
+8.232266 seconds elapsed since checkpoint 653
+4.21092
+648
+8.292084 seconds elapsed since checkpoint 654
+4.17636
+649
+8.071954 seconds elapsed since checkpoint 655
+4.07799
+650
+8.118085 seconds elapsed since checkpoint 656
+4.51492
+651
+8.285017 seconds elapsed since checkpoint 657
+4.58259
+652
+8.196826 seconds elapsed since checkpoint 658
+4.13004
+653
+8.037693 seconds elapsed since checkpoint 659
+4.07009
+654
+8.182655 seconds elapsed since checkpoint 660
+4.03442
+655
+8.197128 seconds elapsed since checkpoint 661
+4.06603
+656
+8.204756 seconds elapsed since checkpoint 662
+4.01346
+657
+8.022319 seconds elapsed since checkpoint 663
+4.04154
+658
+8.348681 seconds elapsed since checkpoint 664
+4.05871
+659
+8.196798 seconds elapsed since checkpoint 665
+4.19148
+660
+8.280635 seconds elapsed since checkpoint 666
+4.10056
+661
+8.053625 seconds elapsed since checkpoint 667
+5.41256
+662
+8.109914 seconds elapsed since checkpoint 668
+4.29299
+663
+8.18667 seconds elapsed since checkpoint 669
+4.65792
+664
+8.167892 seconds elapsed since checkpoint 670
+4.0198
+665
+8.090213 seconds elapsed since checkpoint 671
+4.28014
+666
+8.224229 seconds elapsed since checkpoint 672
+4.68604
+667
+8.257763 seconds elapsed since checkpoint 673
+4.34918
+668
+8.181939 seconds elapsed since checkpoint 674
+4.02728
+669
+8.110921 seconds elapsed since checkpoint 675
+4.11807
+670
+8.229307 seconds elapsed since checkpoint 676
+4.13323
+671
+8.241661 seconds elapsed since checkpoint 677
+4.11338
+672
+8.443857 seconds elapsed since checkpoint 678
+4.11854
+673
+8.163161 seconds elapsed since checkpoint 679
+4.28287
+674
+8.176458 seconds elapsed since checkpoint 680
+4.2533
+675
+8.111864 seconds elapsed since checkpoint 681
+4.08792
+676
+8.270515 seconds elapsed since checkpoint 682
+4.2464
+677
+8.095829 seconds elapsed since checkpoint 683
+4.30775
+678
+8.25749 seconds elapsed since checkpoint 684
+4.29275
+679
+8.208321 seconds elapsed since checkpoint 685
+4.45075
+680
+8.284574 seconds elapsed since checkpoint 686
+4.04157
+681
+8.129744 seconds elapsed since checkpoint 687
+5.44747
+682
+8.328309 seconds elapsed since checkpoint 688
+4.12753
+683
+8.202199 seconds elapsed since checkpoint 689
+4.15253
+684
+8.233206 seconds elapsed since checkpoint 690
+4.51595
+685
+8.134231 seconds elapsed since checkpoint 691
+4.13887
+686
+8.216846 seconds elapsed since checkpoint 692
+4.03679
+687
+8.39734 seconds elapsed since checkpoint 693
+4.73394
+688
+8.120903 seconds elapsed since checkpoint 694
+3.99418
+689
+8.169292 seconds elapsed since checkpoint 695
+4.26491
+690
+8.251597 seconds elapsed since checkpoint 696
+4.3893
+691
+8.238674 seconds elapsed since checkpoint 697
+4.0976
+692
+8.118233 seconds elapsed since checkpoint 698
+4.20407
+693
+8.169552 seconds elapsed since checkpoint 699
+4.00945
+694
+8.292368 seconds elapsed since checkpoint 700
+4.05528
+695
+8.290629 seconds elapsed since checkpoint 701
+4.06774
+696
+8.036277 seconds elapsed since checkpoint 702
+4.0039
+697
+8.227113 seconds elapsed since checkpoint 703
+4.23443
+698
+8.278641 seconds elapsed since checkpoint 704
+4.26357
+699
+8.238806 seconds elapsed since checkpoint 705
+4.17258
+700
+8.084639 seconds elapsed since checkpoint 706
+4.15317
+701
+8.299096 seconds elapsed since checkpoint 707
+4.13534
+702
+8.400557 seconds elapsed since checkpoint 708
+4.21248
+703
+8.218128 seconds elapsed since checkpoint 709
+4.3754
+704
+8.070575 seconds elapsed since checkpoint 710
+4.35474
+705
+8.137529 seconds elapsed since checkpoint 711
+4.06295
+706
+8.204838 seconds elapsed since checkpoint 712
+4.23554
+707
+8.18429 seconds elapsed since checkpoint 713
+4.17185
+708
+8.161445 seconds elapsed since checkpoint 714
+4.02497
+709
+8.178112 seconds elapsed since checkpoint 715
+4.03885
+710
+8.257531 seconds elapsed since checkpoint 716
+4.16924
+711
+8.268938 seconds elapsed since checkpoint 717
+4.26409
+712
+8.148624 seconds elapsed since checkpoint 718
+4.26275
+713
+8.215991 seconds elapsed since checkpoint 719
+4.2265
+714
+8.236564 seconds elapsed since checkpoint 720
+4.46306
+715
+8.181316 seconds elapsed since checkpoint 721
+4.08547
+716
+8.174518 seconds elapsed since checkpoint 722
+4.36215
+717
+8.41081 seconds elapsed since checkpoint 723
+4.23488
+718
+8.269785 seconds elapsed since checkpoint 724
+4.26063
+719
+8.187213 seconds elapsed since checkpoint 725
+3.73221
+720
+8.149961 seconds elapsed since checkpoint 726
+4.08075
+721
+8.19916 seconds elapsed since checkpoint 727
+4.02919
+722
+8.137582 seconds elapsed since checkpoint 728
+4.16476
+723
+8.22018 seconds elapsed since checkpoint 729
+4.04391
+724
+8.030988 seconds elapsed since checkpoint 730
+4.2631
+725
+8.273891 seconds elapsed since checkpoint 731
+4.13504
+726
+8.297419 seconds elapsed since checkpoint 732
+4.34763
+727
+8.231026 seconds elapsed since checkpoint 733
+4.14317
+728
+8.13921 seconds elapsed since checkpoint 734
+4.25577
+729
+8.253471 seconds elapsed since checkpoint 735
+4.0555
+730
+8.278626 seconds elapsed since checkpoint 736
+4.12542
+731
+8.194482 seconds elapsed since checkpoint 737
+4.52896
+732
+8.222913 seconds elapsed since checkpoint 738
+4.0926
+733
+8.182785 seconds elapsed since checkpoint 739
+4.12432
+734
+8.161942 seconds elapsed since checkpoint 740
+4.01686
+735
+8.119969 seconds elapsed since checkpoint 741
+4.08249
+736
+8.158125 seconds elapsed since checkpoint 742
+4.48951
+737
+8.222772 seconds elapsed since checkpoint 743
+4.22689
+738
+8.279663 seconds elapsed since checkpoint 744
+4.59695
+739
+8.186274 seconds elapsed since checkpoint 745
+4.37373
+740
+8.233008 seconds elapsed since checkpoint 746
+4.05407
+741
+8.221804 seconds elapsed since checkpoint 747
+4.57161
+742
+8.260348 seconds elapsed since checkpoint 748
+4.18132
+743
+8.039971 seconds elapsed since checkpoint 749
+4.28293
+744
+8.147722 seconds elapsed since checkpoint 750
+4.19436
+745
+8.218921 seconds elapsed since checkpoint 751
+4.39979
+746
+8.437138 seconds elapsed since checkpoint 752
+4.1589
+747
+8.13996 seconds elapsed since checkpoint 753
+5.32347
+748
+8.25168 seconds elapsed since checkpoint 754
+4.4186
+749
+8.278224 seconds elapsed since checkpoint 755
+4.14072
+750
+8.238951 seconds elapsed since checkpoint 756
+4.22716
+751
+8.189673 seconds elapsed since checkpoint 757
+4.14379
+752
+8.188526 seconds elapsed since checkpoint 758
+4.02142
+753
+8.239279 seconds elapsed since checkpoint 759
+4.07419
+754
+8.241351 seconds elapsed since checkpoint 760
+4.47721
+755
+8.164378 seconds elapsed since checkpoint 761
+4.29601
+756
+8.231826 seconds elapsed since checkpoint 762
+4.27522
+757
+8.279213 seconds elapsed since checkpoint 763
+4.15753
+758
+8.262766 seconds elapsed since checkpoint 764
+4.31876
+759
+8.038093 seconds elapsed since checkpoint 765
+4.15454
+760
+8.215923 seconds elapsed since checkpoint 766
+4.41723
+761
+8.389332 seconds elapsed since checkpoint 767
+4.07251
+762
+8.306655 seconds elapsed since checkpoint 768
+4.5606
+763
+8.109659 seconds elapsed since checkpoint 769
+4.17163
+764
+8.256188 seconds elapsed since checkpoint 770
+4.22275
+765
+8.270085 seconds elapsed since checkpoint 771
+4.00895
+766
+8.206538 seconds elapsed since checkpoint 772
+4.186
+767
+8.112685 seconds elapsed since checkpoint 773
+3.75476
+768
+8.267489 seconds elapsed since checkpoint 774
+4.14953
+769
+8.204338 seconds elapsed since checkpoint 775
+4.09389
+770
+8.235513 seconds elapsed since checkpoint 776
+4.02574
+771
+8.052238 seconds elapsed since checkpoint 777
+4.34007
+772
+8.262743 seconds elapsed since checkpoint 778
+4.0757
+773
+8.25146 seconds elapsed since checkpoint 779
+4.4687
+774
+8.26219 seconds elapsed since checkpoint 780
+4.04152
+775
+8.099955 seconds elapsed since checkpoint 781
+4.05589
+776
+8.449683 seconds elapsed since checkpoint 782
+4.14961
+777
+8.263381 seconds elapsed since checkpoint 783
+4.10263
+778
+8.030413 seconds elapsed since checkpoint 784
+4.14387
+779
+8.153556 seconds elapsed since checkpoint 785
+3.98305
+780
+8.237968 seconds elapsed since checkpoint 786
+4.10798
+781
+8.154129 seconds elapsed since checkpoint 787
+4.13895
+782
+8.111353 seconds elapsed since checkpoint 788
+4.05646
+783
+8.25858 seconds elapsed since checkpoint 789
+4.32095
+784
+8.198391 seconds elapsed since checkpoint 790
+4.40333
+785
+8.272721 seconds elapsed since checkpoint 791
+4.22487
+786
+8.095932 seconds elapsed since checkpoint 792
+4.13222
+787
+8.276238 seconds elapsed since checkpoint 793
+4.33999
+788
+8.220783 seconds elapsed since checkpoint 794
+4.09746
+789
+8.235573 seconds elapsed since checkpoint 795
+4.43572
+790
+8.19695 seconds elapsed since checkpoint 796
+4.18849
+791
+8.370863 seconds elapsed since checkpoint 797
+4.09588
+792
+8.238211 seconds elapsed since checkpoint 798
+4.09203
+793
+8.29087 seconds elapsed since checkpoint 799
+4.0487
+794
+8.118576 seconds elapsed since checkpoint 800
+4.12007
+795
+8.192533 seconds elapsed since checkpoint 801
+4.38432
+796
+8.298928 seconds elapsed since checkpoint 802
+4.56183
+797
+8.244824 seconds elapsed since checkpoint 803
+4.26943
+798
+8.02203 seconds elapsed since checkpoint 804
+4.23255
+799
+8.164955 seconds elapsed since checkpoint 805
+4.26577
+800
+8.254848 seconds elapsed since checkpoint 806
+4.11059
+801
+8.250066 seconds elapsed since checkpoint 807
+4.10765
+802
+8.168578 seconds elapsed since checkpoint 808
+4.09124
+803
+8.117941 seconds elapsed since checkpoint 809
+3.83504
+804
+8.191171 seconds elapsed since checkpoint 810
+4.30516
+805
+8.503449 seconds elapsed since checkpoint 811
+4.2832
+806
+8.058113 seconds elapsed since checkpoint 812
+4.66686
+807
+8.261861 seconds elapsed since checkpoint 813
+4.19773
+808
+8.227263 seconds elapsed since checkpoint 814
+4.65186
+809
+8.193258 seconds elapsed since checkpoint 815
+4.34573
+810
+8.187632 seconds elapsed since checkpoint 816
+4.31029
+811
+8.216293 seconds elapsed since checkpoint 817
+4.38129
+812
+8.234091 seconds elapsed since checkpoint 818
+4.13426
+813
+8.258765 seconds elapsed since checkpoint 819
+4.25
+814
+8.168339 seconds elapsed since checkpoint 820
+4.09336
+815
+8.249264 seconds elapsed since checkpoint 821
+4.07335
+816
+8.265379 seconds elapsed since checkpoint 822
+4.34254
+817
+8.264242 seconds elapsed since checkpoint 823
+4.36529
+818
+8.113302 seconds elapsed since checkpoint 824
+4.43876
+819
+8.249248 seconds elapsed since checkpoint 825
+4.53835
+820
+8.382851 seconds elapsed since checkpoint 826
+4.12777
+821
+8.093025 seconds elapsed since checkpoint 827
+4.36696
+822
+8.16761 seconds elapsed since checkpoint 828
+4.20496
+823
+8.230198 seconds elapsed since checkpoint 829
+4.35715
+824
+8.142798 seconds elapsed since checkpoint 830
+3.96866
+825
+7.9947 seconds elapsed since checkpoint 831
+3.9498
+826
+8.267462 seconds elapsed since checkpoint 832
+4.31016
+827
+8.300463 seconds elapsed since checkpoint 833
+4.09224
+828
+8.22227 seconds elapsed since checkpoint 834
+4.1299
+829
+8.138717 seconds elapsed since checkpoint 835
+4.34595
+830
+8.276414 seconds elapsed since checkpoint 836
+4.1708
+831
+8.272092 seconds elapsed since checkpoint 837
+4.06524
+832
+8.281655 seconds elapsed since checkpoint 838
+4.10918
+833
+8.204494 seconds elapsed since checkpoint 839
+4.30796
+834
+8.220946 seconds elapsed since checkpoint 840
+4.17347
+835
+8.353733 seconds elapsed since checkpoint 841
+4.69655
+836
+8.188059 seconds elapsed since checkpoint 842
+4.27389
+837
+8.089406 seconds elapsed since checkpoint 843
+4.2452
+838
+8.299726 seconds elapsed since checkpoint 844
+3.99926
+839
+8.180838 seconds elapsed since checkpoint 845
+4.29913
+840
+8.183438 seconds elapsed since checkpoint 846
+4.10478
+841
+8.130649 seconds elapsed since checkpoint 847
+4.4298
+842
+8.197044 seconds elapsed since checkpoint 848
+4.50734
+843
+8.233991 seconds elapsed since checkpoint 849
+4.4596
+844
+8.214924 seconds elapsed since checkpoint 850
+4.23725
+845
+8.105263 seconds elapsed since checkpoint 851
+4.10452
+846
+8.150781 seconds elapsed since checkpoint 852
+4.118
+847
+8.299744 seconds elapsed since checkpoint 853
+4.18104
+848
+8.226733 seconds elapsed since checkpoint 854
+4.10513
+849
+8.129029 seconds elapsed since checkpoint 855
+4.29756
+850
+8.362058 seconds elapsed since checkpoint 856
+4.07675
+851
+8.281711 seconds elapsed since checkpoint 857
+4.40288
+852
+8.211336 seconds elapsed since checkpoint 858
+4.27787
+853
+8.081035 seconds elapsed since checkpoint 859
+4.07476
+854
+8.126986 seconds elapsed since checkpoint 860
+4.18652
+855
+8.435332 seconds elapsed since checkpoint 861
+4.28975
+856
+8.247288 seconds elapsed since checkpoint 862
+4.22075
+857
+8.000733 seconds elapsed since checkpoint 863
+4.38187
+858
+8.197262 seconds elapsed since checkpoint 864
+4.15562
+859
+8.18485 seconds elapsed since checkpoint 865
+4.16429
+860
+8.182633 seconds elapsed since checkpoint 866
+4.14802
+861
+8.064195 seconds elapsed since checkpoint 867
+4.18563
+862
+8.236256 seconds elapsed since checkpoint 868
+4.03394
+863
+8.247511 seconds elapsed since checkpoint 869
+4.09087
+864
+8.188858 seconds elapsed since checkpoint 870
+4.50934
+865
+8.170118 seconds elapsed since checkpoint 871
+4.35058
+866
+8.194671 seconds elapsed since checkpoint 872
+3.90888
+867
+8.245817 seconds elapsed since checkpoint 873
+4.67337
+868
+8.104485 seconds elapsed since checkpoint 874
+4.44469
+869
+8.251124 seconds elapsed since checkpoint 875
+4.35209
+870
+8.281626 seconds elapsed since checkpoint 876
+4.07649
+871
+8.113183 seconds elapsed since checkpoint 877
+4.19981
+872
+8.142655 seconds elapsed since checkpoint 878
+4.18735
+873
+8.185365 seconds elapsed since checkpoint 879
+4.28065
+874
+8.308274 seconds elapsed since checkpoint 880
+4.15686
+875
+8.262907 seconds elapsed since checkpoint 881
+4.2126
+876
+8.02397 seconds elapsed since checkpoint 882
+4.39865
+877
+8.18443 seconds elapsed since checkpoint 883
+4.46842
+878
+8.241688 seconds elapsed since checkpoint 884
+4.78865
+879
+8.331135 seconds elapsed since checkpoint 885
+4.3435
+880
+8.092252 seconds elapsed since checkpoint 886
+4.24462
+881
+8.24904 seconds elapsed since checkpoint 887
+4.21623
+882
+8.23414 seconds elapsed since checkpoint 888
+4.25563
+883
+8.240492 seconds elapsed since checkpoint 889
+4.52125
+884
+7.999338 seconds elapsed since checkpoint 890
+4.62905
+885
+8.171901 seconds elapsed since checkpoint 891
+4.25433
+886
+8.254013 seconds elapsed since checkpoint 892
+4.51489
+887
+8.223407 seconds elapsed since checkpoint 893
+4.26974
+888
+8.096404 seconds elapsed since checkpoint 894
+4.53628
+889
+8.224772 seconds elapsed since checkpoint 895
+4.4693
+890
+8.165955 seconds elapsed since checkpoint 896
+4.42775
+891
+8.193491 seconds elapsed since checkpoint 897
+4.69056
+892
+8.103587 seconds elapsed since checkpoint 898
+4.1531
+893
+8.285849 seconds elapsed since checkpoint 899
+4.40642
+894
+8.413696 seconds elapsed since checkpoint 900
+4.26924
+895
+8.232989 seconds elapsed since checkpoint 901
+4.08524
+896
+8.155712 seconds elapsed since checkpoint 902
+4.00212
+897
+8.24923 seconds elapsed since checkpoint 903
+4.00776
+898
+8.231833 seconds elapsed since checkpoint 904
+4.21697
+899
+8.257661 seconds elapsed since checkpoint 905
+4.98661
+900
+8.129765 seconds elapsed since checkpoint 906
+4.31701
+901
+8.274715 seconds elapsed since checkpoint 907
+4.27415
+902
+8.231359 seconds elapsed since checkpoint 908
+4.29467
+903
+8.256518 seconds elapsed since checkpoint 909
+4.03105
+904
+8.148216 seconds elapsed since checkpoint 910
+4.36292
+905
+8.194528 seconds elapsed since checkpoint 911
+4.20511
+906
+8.272491 seconds elapsed since checkpoint 912
+4.21317
+907
+8.301443 seconds elapsed since checkpoint 913
+4.21194
+908
+8.054756 seconds elapsed since checkpoint 914
+4.88834
+909
+8.384243 seconds elapsed since checkpoint 915
+4.34365
+910
+8.254903 seconds elapsed since checkpoint 916
+4.18664
+911
+8.136093 seconds elapsed since checkpoint 917
+4.07485
+912
+8.095303 seconds elapsed since checkpoint 918
+4.17781
+913
+8.273104 seconds elapsed since checkpoint 919
+4.3377
+914
+8.219938 seconds elapsed since checkpoint 920
+4.04051
+915
+8.077979 seconds elapsed since checkpoint 921
+4.24201
+916
+8.239388 seconds elapsed since checkpoint 922
+4.80117
+917
+8.277613 seconds elapsed since checkpoint 923
+4.18889
+918
+8.24234 seconds elapsed since checkpoint 924
+4.32632
+919
+8.043047 seconds elapsed since checkpoint 925
+4.45478
+920
+8.229856 seconds elapsed since checkpoint 926
+4.42857
+921
+8.196449 seconds elapsed since checkpoint 927
+4.10689
+922
+8.164673 seconds elapsed since checkpoint 928
+4.06491
+923
+7.966899 seconds elapsed since checkpoint 929
+4.34
+924
+8.288904 seconds elapsed since checkpoint 930
+4.40787
+925
+8.203995 seconds elapsed since checkpoint 931
+4.08253
+926
+8.186476 seconds elapsed since checkpoint 932
+4.53268
+927
+8.085093 seconds elapsed since checkpoint 933
+4.58637
+928
+8.246161 seconds elapsed since checkpoint 934
+4.19003
+929
+8.150769 seconds elapsed since checkpoint 935
+4.57562
+930
+8.324769 seconds elapsed since checkpoint 936
+4.12489
+931
+8.156966 seconds elapsed since checkpoint 937
+4.1566
+932
+8.275562 seconds elapsed since checkpoint 938
+4.4707
+933
+8.219161 seconds elapsed since checkpoint 939
+4.45448
+934
+8.225478 seconds elapsed since checkpoint 940
+4.75956
+935
+8.062445 seconds elapsed since checkpoint 941
+4.01865
+936
+8.258814 seconds elapsed since checkpoint 942
+4.90558
+937
+8.282644 seconds elapsed since checkpoint 943
+4.42908
+938
+8.331524 seconds elapsed since checkpoint 944
+4.35843
+939
+8.17813 seconds elapsed since checkpoint 945
+4.19682
+940
+8.317295 seconds elapsed since checkpoint 946
+4.33555
+941
+8.219024 seconds elapsed since checkpoint 947
+4.06588
+942
+8.250778 seconds elapsed since checkpoint 948
+4.27158
+943
+8.145967 seconds elapsed since checkpoint 949
+4.68984
+944
+8.251348 seconds elapsed since checkpoint 950
+4.02706
+945
+8.204342 seconds elapsed since checkpoint 951
+4.33943
+946
+8.233278 seconds elapsed since checkpoint 952
+4.2624
+947
+8.035145 seconds elapsed since checkpoint 953
+4.06968
+948
+8.313562 seconds elapsed since checkpoint 954
+4.39482
+949
+8.289097 seconds elapsed since checkpoint 955
+4.20009
+950
+8.221208 seconds elapsed since checkpoint 956
+4.35907
+951
+8.077532 seconds elapsed since checkpoint 957
+4.13251
+952
+8.239139 seconds elapsed since checkpoint 958
+4.7513
+953
+8.349559 seconds elapsed since checkpoint 959
+4.38263
+954
+8.137817 seconds elapsed since checkpoint 960
+4.59902
+955
+8.232797 seconds elapsed since checkpoint 961
+4.52469
+956
+8.292074 seconds elapsed since checkpoint 962
+5.10196
+957
+8.201639 seconds elapsed since checkpoint 963
+4.12996
+958
+8.175037 seconds elapsed since checkpoint 964
+4.11098
+959
+8.185423 seconds elapsed since checkpoint 965
+4.1769
+960
+8.19685 seconds elapsed since checkpoint 966
+4.1817
+961
+8.287406 seconds elapsed since checkpoint 967
+4.42223
+962
+8.118742 seconds elapsed since checkpoint 968
+4.34486
+963
+8.152966 seconds elapsed since checkpoint 969
+4.00379
+964
+8.223912 seconds elapsed since checkpoint 970
+4.19092
+965
+8.214068 seconds elapsed since checkpoint 971
+4.2017
+966
+8.12352 seconds elapsed since checkpoint 972
+4.33097
+967
+8.223653 seconds elapsed since checkpoint 973
+4.59884
+968
+8.464623 seconds elapsed since checkpoint 974
+4.71593
+969
+8.152629 seconds elapsed since checkpoint 975
+4.67413
+970
+8.154186 seconds elapsed since checkpoint 976
+4.7145
+971
+8.270667 seconds elapsed since checkpoint 977
+4.70805
+972
+8.261258 seconds elapsed since checkpoint 978
+4.8967
+973
+8.234207 seconds elapsed since checkpoint 979
+4.0435
+974
+8.147625 seconds elapsed since checkpoint 980
+4.5561
+975
+8.199825 seconds elapsed since checkpoint 981
+4.57743
+976
+8.197957 seconds elapsed since checkpoint 982
+4.05426
+977
+8.16722 seconds elapsed since checkpoint 983
+4.62622
+978
+8.056926 seconds elapsed since checkpoint 984
+4.47445
+979
+8.259874 seconds elapsed since checkpoint 985
+4.14184
+980
+8.259334 seconds elapsed since checkpoint 986
+4.15212
+981
+8.243538 seconds elapsed since checkpoint 987
+4.3361
+982
+8.052744 seconds elapsed since checkpoint 988
+4.48671
+983
+8.331551 seconds elapsed since checkpoint 989
+4.1705
+984
+8.233871 seconds elapsed since checkpoint 990
+4.21452
+985
+8.131797 seconds elapsed since checkpoint 991
+4.57545
+986
+7.96334 seconds elapsed since checkpoint 992
+4.32443
+987
+8.152767 seconds elapsed since checkpoint 993
+4.26916
+988
+8.280525 seconds elapsed since checkpoint 994
+4.11967
+989
+8.14169 seconds elapsed since checkpoint 995
+4.07461
+990
+8.13729 seconds elapsed since checkpoint 996
+4.57372
+991
+8.262069 seconds elapsed since checkpoint 997
+4.3526
+992
+8.133098 seconds elapsed since checkpoint 998
+4.24102
+993
+8.180179 seconds elapsed since checkpoint 999
+4.17036
+994
+8.070672 seconds elapsed since checkpoint 1000
+4.21038
+995
+8.122672 seconds elapsed since checkpoint 1001
+4.56094
+996
+8.194818 seconds elapsed since checkpoint 1002
+4.2588
+997
+8.292912 seconds elapsed since checkpoint 1003
+4.26111
+998
+8.246512 seconds elapsed since checkpoint 1004
+4.92095
+999
+8.183786 seconds elapsed since checkpoint 1005
+4.16738
+1000
+8.186407 seconds elapsed since checkpoint 1006
+4.38251
+1001
+8.262594 seconds elapsed since checkpoint 1007
+4.03279
+1002
+8.159234 seconds elapsed since checkpoint 1008
+4.0233
+1003
+8.199598 seconds elapsed since checkpoint 1009
+4.32845
+1004
+8.180399 seconds elapsed since checkpoint 1010
+4.2086
+1005
+8.183631 seconds elapsed since checkpoint 1011
+4.22862
+1006
+8.189174 seconds elapsed since checkpoint 1012
+4.20788
+1007
+8.196274 seconds elapsed since checkpoint 1013
+4.42035
+1008
+8.189058 seconds elapsed since checkpoint 1014
+4.33828
+1009
+8.095998 seconds elapsed since checkpoint 1015
+4.33764
+1010
+8.201562 seconds elapsed since checkpoint 1016
+4.2047
+1011
+8.179086 seconds elapsed since checkpoint 1017
+4.29391
+1012
+8.40964 seconds elapsed since checkpoint 1018
+4.08197
+1013
+8.074051 seconds elapsed since checkpoint 1019
+4.11828
+1014
+8.226825 seconds elapsed since checkpoint 1020
+4.74294
+1015
+8.229221 seconds elapsed since checkpoint 1021
+4.35025
+1016
+8.197307 seconds elapsed since checkpoint 1022
+4.10819
+1017
+8.136952 seconds elapsed since checkpoint 1023
+3.98523
+1018
+8.249771 seconds elapsed since checkpoint 1024
+4.26535
+1019
+8.166997 seconds elapsed since checkpoint 1025
+4.02188
+1020
+8.236355 seconds elapsed since checkpoint 1026
+4.19403
+1021
+8.079566 seconds elapsed since checkpoint 1027
+4.18725
+1022
+8.239222 seconds elapsed since checkpoint 1028
+3.98657
+1023
+8.256832 seconds elapsed since checkpoint 1029
+4.116
+1024
+8.198603 seconds elapsed since checkpoint 1030
+4.07229
+1025
+8.057394 seconds elapsed since checkpoint 1031
+4.07649
+1026
+8.201956 seconds elapsed since checkpoint 1032
+4.20378
+1027
+8.431821 seconds elapsed since checkpoint 1033
+4.29107
+1028
+8.242165 seconds elapsed since checkpoint 1034
+4.58728
+1029
+8.094578 seconds elapsed since checkpoint 1035
+4.59188
+1030
+8.1367 seconds elapsed since checkpoint 1036
+4.29863
+1031
+8.244712 seconds elapsed since checkpoint 1037
+4.50772
+1032
+8.258684 seconds elapsed since checkpoint 1038
+4.86705
+1033
+8.155349 seconds elapsed since checkpoint 1039
+4.32397
+1034
+8.24055 seconds elapsed since checkpoint 1040
+3.97631
+1035
+8.178115 seconds elapsed since checkpoint 1041
+4.24469
+1036
+8.267757 seconds elapsed since checkpoint 1042
+4.68935
+1037
+8.105326 seconds elapsed since checkpoint 1043
+4.02169
+1038
+8.20936 seconds elapsed since checkpoint 1044
+4.72481
+1039
+8.221325 seconds elapsed since checkpoint 1045
+3.93237
+1040
+8.231283 seconds elapsed since checkpoint 1046
+4.1125
+1041
+8.152638 seconds elapsed since checkpoint 1047
+4.12565
+1042
+8.368047 seconds elapsed since checkpoint 1048
+4.27079
+1043
+8.232583 seconds elapsed since checkpoint 1049
+4.34237
+1044
+8.071118 seconds elapsed since checkpoint 1050
+4.1715
+1045
+8.231074 seconds elapsed since checkpoint 1051
+4.27485
+1046
+8.23207 seconds elapsed since checkpoint 1052
+4.10817
+1047
+8.159899 seconds elapsed since checkpoint 1053
+3.92911
+1048
+8.076177 seconds elapsed since checkpoint 1054
+4.3068
+1049
+8.14549 seconds elapsed since checkpoint 1055
+4.58129
+1050
+8.239127 seconds elapsed since checkpoint 1056
+4.17188
+1051
+8.149602 seconds elapsed since checkpoint 1057
+4.66709
+1052
+8.130186 seconds elapsed since checkpoint 1058
+4.13164
+1053
+8.185537 seconds elapsed since checkpoint 1059
+4.03952
+1054
+8.161401 seconds elapsed since checkpoint 1060
+4.28757
+1055
+8.310333 seconds elapsed since checkpoint 1061
+4.05669
+1056
+8.229497 seconds elapsed since checkpoint 1062
+4.29368
+1057
+8.267232 seconds elapsed since checkpoint 1063
+4.02437
+1058
+8.219761 seconds elapsed since checkpoint 1064
+4.59217
+1059
+8.243343 seconds elapsed since checkpoint 1065
+4.24026
+1060
+8.111432 seconds elapsed since checkpoint 1066
+4.15591
+1061
+8.194324 seconds elapsed since checkpoint 1067
+4.20803
+1062
+8.161073 seconds elapsed since checkpoint 1068
+4.16191
+1063
+8.208611 seconds elapsed since checkpoint 1069
+4.28314
+1064
+8.075959 seconds elapsed since checkpoint 1070
+4.25768
+1065
+8.199295 seconds elapsed since checkpoint 1071
+4.31405
+1066
+8.174469 seconds elapsed since checkpoint 1072
+4.14749
+1067
+8.205877 seconds elapsed since checkpoint 1073
+4.09806
+1068
+8.083128 seconds elapsed since checkpoint 1074
+4.03503
+1069
+8.20564 seconds elapsed since checkpoint 1075
+3.91289
+1070
+8.236064 seconds elapsed since checkpoint 1076
+4.3426
+1071
+8.44792 seconds elapsed since checkpoint 1077
+4.46257
+1072
+8.09394 seconds elapsed since checkpoint 1078
+4.10103
+1073
+8.156429 seconds elapsed since checkpoint 1079
+4.09108
+1074
+8.24901 seconds elapsed since checkpoint 1080
+4.90564
+1075
+8.210913 seconds elapsed since checkpoint 1081
+5.20985
+1076
+8.171718 seconds elapsed since checkpoint 1082
+4.26993
+1077
+8.17758 seconds elapsed since checkpoint 1083
+4.09314
+1078
+8.230919 seconds elapsed since checkpoint 1084
+4.1622
+1079
+8.170385 seconds elapsed since checkpoint 1085
+4.21432
+1080
+7.984773 seconds elapsed since checkpoint 1086
+5.01368
+1081
+8.229394 seconds elapsed since checkpoint 1087
+4.16734
+1082
+8.238734 seconds elapsed since checkpoint 1088
+4.32922
+1083
+8.119699 seconds elapsed since checkpoint 1089
+4.14719
+1084
+8.045225 seconds elapsed since checkpoint 1090
+4.33496
+1085
+8.153564 seconds elapsed since checkpoint 1091
+4.205
+1086
+8.292637 seconds elapsed since checkpoint 1092
+4.35512
+1087
+8.004713 seconds elapsed since checkpoint 1093
+4.05934
+1088
+8.215326 seconds elapsed since checkpoint 1094
+4.01906
+1089
+8.24517 seconds elapsed since checkpoint 1095
+3.94114
+1090
+8.217991 seconds elapsed since checkpoint 1096
+4.10344
+1091
+8.13936 seconds elapsed since checkpoint 1097
+4.47639
+1092
+8.190303 seconds elapsed since checkpoint 1098
+4.11602
+1093
+8.170132 seconds elapsed since checkpoint 1099
+4.52187
+1094
+8.265564 seconds elapsed since checkpoint 1100
+4.24404
+1095
+8.080552 seconds elapsed since checkpoint 1101
+4.07162
+1096
+8.229333 seconds elapsed since checkpoint 1102
+4.07265
+1097
+8.197556 seconds elapsed since checkpoint 1103
+4.06654
+1098
+8.259354 seconds elapsed since checkpoint 1104
+4.17882
+1099
+8.008913 seconds elapsed since checkpoint 1105
+4.06416
+1100
+8.14289 seconds elapsed since checkpoint 1106
+4.2905
+1101
+8.45182 seconds elapsed since checkpoint 1107
+4.13701
+1102
+8.175916 seconds elapsed since checkpoint 1108
+4.61945
+1103
+8.144086 seconds elapsed since checkpoint 1109
+4.14728
+1104
+8.237228 seconds elapsed since checkpoint 1110
+4.21123
+1105
+8.182162 seconds elapsed since checkpoint 1111
+3.94877
+1106
+8.268428 seconds elapsed since checkpoint 1112
+4.07643
+1107
+8.106233 seconds elapsed since checkpoint 1113
+4.11741
+1108
+8.163706 seconds elapsed since checkpoint 1114
+4.04645
+1109
+8.186916 seconds elapsed since checkpoint 1115
+4.42246
+1110
+8.186216 seconds elapsed since checkpoint 1116
+4.13556
+1111
+8.171354 seconds elapsed since checkpoint 1117
+4.11332
+1112
+8.158767 seconds elapsed since checkpoint 1118
+4.43875
+1113
+8.247678 seconds elapsed since checkpoint 1119
+4.17885
+1114
+8.191893 seconds elapsed since checkpoint 1120
+4.1864
+1115
+8.174064 seconds elapsed since checkpoint 1121
+4.1334
+1116
+8.304481 seconds elapsed since checkpoint 1122
+4.4592
+1117
+8.171792 seconds elapsed since checkpoint 1123
+4.02981
+1118
+8.207607 seconds elapsed since checkpoint 1124
+4.10948
+1119
+8.041819 seconds elapsed since checkpoint 1125
+4.0247
+1120
+8.252469 seconds elapsed since checkpoint 1126
+4.01365
+1121
+8.230323 seconds elapsed since checkpoint 1127
+3.97233
+1122
+8.163873 seconds elapsed since checkpoint 1128
+4.91867
+1123
+8.032717 seconds elapsed since checkpoint 1129
+3.96047
+1124
+8.200217 seconds elapsed since checkpoint 1130
+4.07654
+1125
+8.185377 seconds elapsed since checkpoint 1131
+4.20755
+1126
+8.266477 seconds elapsed since checkpoint 1132
+4.0921
+1127
+8.099402 seconds elapsed since checkpoint 1133
+4.18642
+1128
+8.204676 seconds elapsed since checkpoint 1134
+4.02532
+1129
+8.196217 seconds elapsed since checkpoint 1135
+4.25549
+1130
+8.242229 seconds elapsed since checkpoint 1136
+4.12505
+1131
+8.229932 seconds elapsed since checkpoint 1137
+4.00273
+1132
+8.125206 seconds elapsed since checkpoint 1138
+3.96964
+1133
+8.199613 seconds elapsed since checkpoint 1139
+3.98952
+1134
+8.132283 seconds elapsed since checkpoint 1140
+4.27618
+1135
+8.152395 seconds elapsed since checkpoint 1141
+4.4098
+1136
+8.184009 seconds elapsed since checkpoint 1142
+4.4962
+1137
+8.274962 seconds elapsed since checkpoint 1143
+3.99696
+1138
+8.006196 seconds elapsed since checkpoint 1144
+4.23228
+1139
+8.155737 seconds elapsed since checkpoint 1145
+4.26038
+1140
+8.222975 seconds elapsed since checkpoint 1146
+3.95017
+1141
+8.337037 seconds elapsed since checkpoint 1147
+4.32719
+1142
+8.138356 seconds elapsed since checkpoint 1148
+3.94298
+1143
+8.193666 seconds elapsed since checkpoint 1149
+4.71561
+1144
+8.216873 seconds elapsed since checkpoint 1150
+4.36858
+1145
+8.364125 seconds elapsed since checkpoint 1151
+4.15573
+1146
+8.081103 seconds elapsed since checkpoint 1152
+4.10388
+1147
+8.166712 seconds elapsed since checkpoint 1153
+4.04305
+1148
+8.210512 seconds elapsed since checkpoint 1154
+4.01865
+1149
+8.256923 seconds elapsed since checkpoint 1155
+4.1261
+1150
+8.016622 seconds elapsed since checkpoint 1156
+4.68624
+1151
+8.259434 seconds elapsed since checkpoint 1157
+4.30971
+1152
+8.19588 seconds elapsed since checkpoint 1158
+4.57332
+1153
+8.142042 seconds elapsed since checkpoint 1159
+4.21756
+1154
+8.069789 seconds elapsed since checkpoint 1160
+3.98044
+1155
+8.226162 seconds elapsed since checkpoint 1161
+4.82032
+1156
+8.163256 seconds elapsed since checkpoint 1162
+3.98567
+1157
+8.216545 seconds elapsed since checkpoint 1163
+4.39374
+1158
+8.122175 seconds elapsed since checkpoint 1164
+4.2511
+1159
+8.227833 seconds elapsed since checkpoint 1165
+4.30962
+1160
+8.39422 seconds elapsed since checkpoint 1166
+4.45973
+1161
+8.232758 seconds elapsed since checkpoint 1167
+3.91969
+1162
+8.100307 seconds elapsed since checkpoint 1168
+4.18166
+1163
+8.216918 seconds elapsed since checkpoint 1169
+4.06145
+1164
+8.204968 seconds elapsed since checkpoint 1170
+4.27301
+1165
+8.232363 seconds elapsed since checkpoint 1171
+4.22253
+1166
+8.047678 seconds elapsed since checkpoint 1172
+4.10688
+1167
+8.236127 seconds elapsed since checkpoint 1173
+4.02987
+1168
+8.247902 seconds elapsed since checkpoint 1174
+4.27233
+1169
+8.199983 seconds elapsed since checkpoint 1175
+3.91243
+1170
+8.172666 seconds elapsed since checkpoint 1176
+3.94441
+1171
+8.197387 seconds elapsed since checkpoint 1177
+3.89822
+1172
+8.227168 seconds elapsed since checkpoint 1178
+4.01228
+1173
+8.136024 seconds elapsed since checkpoint 1179
+4.21809
+1174
+8.146399 seconds elapsed since checkpoint 1180
+3.96787
+1175
+8.34837 seconds elapsed since checkpoint 1181
+4.58873
+1176
+8.234278 seconds elapsed since checkpoint 1182
+4.11379
+1177
+8.162989 seconds elapsed since checkpoint 1183
+3.4578
+1178
+8.178512 seconds elapsed since checkpoint 1184
+3.86908
+1179
+8.208124 seconds elapsed since checkpoint 1185
+3.25987
+1180
+8.201704 seconds elapsed since checkpoint 1186
+4.05787
+1181
+8.135206 seconds elapsed since checkpoint 1187
+3.97892
+1182
+8.164762 seconds elapsed since checkpoint 1188
+4.16877
+1183
+8.240233 seconds elapsed since checkpoint 1189
+4.38487
+1184
+8.187032 seconds elapsed since checkpoint 1190
+4.3091
+1185
+8.041305 seconds elapsed since checkpoint 1191
+4.81905
+1186
+8.182928 seconds elapsed since checkpoint 1192
+3.95032
+1187
+8.252521 seconds elapsed since checkpoint 1193
+3.93949
+1188
+8.258108 seconds elapsed since checkpoint 1194
+4.08818
+1189
+8.058227 seconds elapsed since checkpoint 1195
+4.07043
+1190
+8.332629 seconds elapsed since checkpoint 1196
+4.17418
+1191
+8.20232 seconds elapsed since checkpoint 1197
+4.06489
+1192
+8.286516 seconds elapsed since checkpoint 1198
+4.00045
+1193
+8.017435 seconds elapsed since checkpoint 1199
+3.87533
+1194
+8.151644 seconds elapsed since checkpoint 1200
+4.11249
+1195
+8.214751 seconds elapsed since checkpoint 1201
+7.99777
+1196
+8.194221 seconds elapsed since checkpoint 1202
+3.99126
+1197
+8.142408 seconds elapsed since checkpoint 1203
+3.84209
+1198
+8.251589 seconds elapsed since checkpoint 1204
+3.95135
+1199
+8.147292 seconds elapsed since checkpoint 1205
+5.01176
+1200
+8.248998 seconds elapsed since checkpoint 1206
+4.03027
+1201
+8.116429 seconds elapsed since checkpoint 1207
+3.94022
+1202
+8.172831 seconds elapsed since checkpoint 1208
+4.29748
+1203
+8.176217 seconds elapsed since checkpoint 1209
+3.93769
+1204
+8.34046 seconds elapsed since checkpoint 1210
+4.04337
+1205
+8.02347 seconds elapsed since checkpoint 1211
+4.18664
+1206
+8.21105 seconds elapsed since checkpoint 1212
+4.119
+1207
+8.186576 seconds elapsed since checkpoint 1213
+4.41584
+1208
+8.199342 seconds elapsed since checkpoint 1214
+3.89066
+1209
+8.188416 seconds elapsed since checkpoint 1215
+4.33412
+1210
+8.284363 seconds elapsed since checkpoint 1216
+6.32367
+1211
+8.163154 seconds elapsed since checkpoint 1217
+4.64359
+1212
+8.227392 seconds elapsed since checkpoint 1218
+3.97832
+1213
+8.060593 seconds elapsed since checkpoint 1219
+4.51034
+1214
+8.214136 seconds elapsed since checkpoint 1220
+4.21101
+1215
+8.203311 seconds elapsed since checkpoint 1221
+4.30952
+1216
+8.244563 seconds elapsed since checkpoint 1222
+4.14848
+1217
+8.124589 seconds elapsed since checkpoint 1223
+4.53692
+1218
+8.218018 seconds elapsed since checkpoint 1224
+4.76731
+1219
+8.452872 seconds elapsed since checkpoint 1225
+4.50524
+1220
+8.146327 seconds elapsed since checkpoint 1226
+4.14143
+1221
+8.19887 seconds elapsed since checkpoint 1227
+4.85685
+1222
+8.240715 seconds elapsed since checkpoint 1228
+4.09856
+1223
+8.25111 seconds elapsed since checkpoint 1229
+3.80699
+1224
+8.125867 seconds elapsed since checkpoint 1230
+3.84673
+1225
+8.120207 seconds elapsed since checkpoint 1231
+4.15803
+1226
+8.204333 seconds elapsed since checkpoint 1232
+3.96616
+1227
+8.197711 seconds elapsed since checkpoint 1233
+4.45042
+1228
+8.080762 seconds elapsed since checkpoint 1234
+4.10184
+1229
+8.15123 seconds elapsed since checkpoint 1235
+3.85792
+1230
+8.170119 seconds elapsed since checkpoint 1236
+4.03796
+1231
+8.398639 seconds elapsed since checkpoint 1237
+4.54695
+1232
+8.060611 seconds elapsed since checkpoint 1238
+4.46221
+1233
+8.155373 seconds elapsed since checkpoint 1239
+4.4838
+1234
+8.40044 seconds elapsed since checkpoint 1240
+4.14002
+1235
+8.229926 seconds elapsed since checkpoint 1241
+3.95325
+1236
+8.056774 seconds elapsed since checkpoint 1242
+4.76282
+1237
+8.164838 seconds elapsed since checkpoint 1243
+4.02685
+1238
+8.184273 seconds elapsed since checkpoint 1244
+4.24338
+1239
+8.172687 seconds elapsed since checkpoint 1245
+4.06505
+1240
+8.12787 seconds elapsed since checkpoint 1246
+3.8231
+1241
+8.220138 seconds elapsed since checkpoint 1247
+4.04314
+1242
+8.250209 seconds elapsed since checkpoint 1248
+4.19
+1243
+8.217877 seconds elapsed since checkpoint 1249
+5.68008
+1244
+8.14035 seconds elapsed since checkpoint 1250
+4.33
+1245
+8.170618 seconds elapsed since checkpoint 1251
+4.41875
+1246
+8.265828 seconds elapsed since checkpoint 1252
+4.49767
+1247
+8.182458 seconds elapsed since checkpoint 1253
+5.1765
+1248
+8.055184 seconds elapsed since checkpoint 1254
+4.125
+1249
+8.387719 seconds elapsed since checkpoint 1255
+3.68755
+1250
+8.264631 seconds elapsed since checkpoint 1256
+3.93643
+1251
+8.160007 seconds elapsed since checkpoint 1257
+4.34724
+1252
+8.083579 seconds elapsed since checkpoint 1258
+3.9932
+1253
+8.198611 seconds elapsed since checkpoint 1259
+4.20363
+1254
+8.266273 seconds elapsed since checkpoint 1260
+4.0717
+1255
+8.157673 seconds elapsed since checkpoint 1261
+4.41701
+1256
+7.994535 seconds elapsed since checkpoint 1262
+4.24168
+1257
+8.262811 seconds elapsed since checkpoint 1263
+4.16893
+1258
+8.263311 seconds elapsed since checkpoint 1264
+4.13504
+1259
+8.134774 seconds elapsed since checkpoint 1265
+4.29712
+1260
+8.112453 seconds elapsed since checkpoint 1266
+5.09498
+1261
+8.223838 seconds elapsed since checkpoint 1267
+4.15482
+1262
+8.203338 seconds elapsed since checkpoint 1268
+3.96035
+1263
+8.209003 seconds elapsed since checkpoint 1269
+4.13079
+1264
+8.144597 seconds elapsed since checkpoint 1270
+4.21135
+1265
+8.139176 seconds elapsed since checkpoint 1271
+4.0887
+1266
+8.225692 seconds elapsed since checkpoint 1272
+4.13701
+1267
+8.141999 seconds elapsed since checkpoint 1273
+4.08681
+1268
+8.106253 seconds elapsed since checkpoint 1274
+3.87784
+1269
+8.259088 seconds elapsed since checkpoint 1275
+4.17159
+1270
+8.27119 seconds elapsed since checkpoint 1276
+3.83345
+1271
+8.064774 seconds elapsed since checkpoint 1277
+3.76167
+1272
+8.269873 seconds elapsed since checkpoint 1278
+3.89904
+1273
+8.27761 seconds elapsed since checkpoint 1279
+4.05917
+1274
+8.177758 seconds elapsed since checkpoint 1280
+4.32529
+1275
+8.049037 seconds elapsed since checkpoint 1281
+4.10836
+1276
+8.258362 seconds elapsed since checkpoint 1282
+4.18402
+1277
+8.282454 seconds elapsed since checkpoint 1283
+4.01525
+1278
+8.457915 seconds elapsed since checkpoint 1284
+4.38305
+1279
+8.09127 seconds elapsed since checkpoint 1285
+4.54482
+1280
+8.161453 seconds elapsed since checkpoint 1286
+4.58749
+1281
+8.160781 seconds elapsed since checkpoint 1287
+4.36431
+1282
+8.239292 seconds elapsed since checkpoint 1288
+4.24089
+1283
+8.140242 seconds elapsed since checkpoint 1289
+4.14152
+1284
+8.233363 seconds elapsed since checkpoint 1290
+3.97315
+1285
+8.286332 seconds elapsed since checkpoint 1291
+4.24716
+1286
+8.279554 seconds elapsed since checkpoint 1292
+3.94828
+1287
+8.08837 seconds elapsed since checkpoint 1293
+3.94922
+1288
+8.171861 seconds elapsed since checkpoint 1294
+3.96142
+1289
+8.177012 seconds elapsed since checkpoint 1295
+3.89747
+1290
+8.242331 seconds elapsed since checkpoint 1296
+3.97025
+1291
+8.153317 seconds elapsed since checkpoint 1297
+3.77268
+1292
+8.176573 seconds elapsed since checkpoint 1298
+3.86404
+1293
+8.397854 seconds elapsed since checkpoint 1299
+3.99457
+1294
+8.230817 seconds elapsed since checkpoint 1300
+3.93716
+1295
+8.078787 seconds elapsed since checkpoint 1301
+3.95399
+1296
+8.205768 seconds elapsed since checkpoint 1302
+3.78438
+1297
+8.242261 seconds elapsed since checkpoint 1303
+4.28686
+1298
+8.233994 seconds elapsed since checkpoint 1304
+3.87279
+1299
+8.015153 seconds elapsed since checkpoint 1305
+4.09849
+1300
+8.163437 seconds elapsed since checkpoint 1306
+4.02103
+1301
+8.310987 seconds elapsed since checkpoint 1307
+4.11648
+1302
+8.218031 seconds elapsed since checkpoint 1308
+4.03372
+1303
+8.067834 seconds elapsed since checkpoint 1309
+4.28108
+1304
+8.170463 seconds elapsed since checkpoint 1310
+3.6827
+1305
+8.216679 seconds elapsed since checkpoint 1311
+4.29118
+1306
+8.231735 seconds elapsed since checkpoint 1312
+3.9622
+1307
+8.165083 seconds elapsed since checkpoint 1313
+3.76324
+1308
+8.249395 seconds elapsed since checkpoint 1314
+3.94164
+1309
+8.164298 seconds elapsed since checkpoint 1315
+4.43265
+1310
+8.092063 seconds elapsed since checkpoint 1316
+4.26008
+1311
+8.178937 seconds elapsed since checkpoint 1317
+3.95665
+1312
+8.206103 seconds elapsed since checkpoint 1318
+3.94576
+1313
+8.234028 seconds elapsed since checkpoint 1319
+3.97383
+1314
+8.041412 seconds elapsed since checkpoint 1320
+3.9124
+1315
+8.101163 seconds elapsed since checkpoint 1321
+3.95342
+1316
+8.225167 seconds elapsed since checkpoint 1322
+4.29693
+1317
+8.170133 seconds elapsed since checkpoint 1323
+3.81216
+1318
+8.045619 seconds elapsed since checkpoint 1324
+3.91332
+1319
+8.162349 seconds elapsed since checkpoint 1325
+3.93175
+1320
+8.215905 seconds elapsed since checkpoint 1326
+3.88293
+1321
+8.212234 seconds elapsed since checkpoint 1327
+3.91965
+1322
+8.10925 seconds elapsed since checkpoint 1328
+3.99561
+1323
+8.366534 seconds elapsed since checkpoint 1329
+4.10967
+1324
+8.216818 seconds elapsed since checkpoint 1330
+4.0335
+1325
+8.198789 seconds elapsed since checkpoint 1331
+4.43898
+1326
+8.140137 seconds elapsed since checkpoint 1332
+3.97812
+1327
+8.22996 seconds elapsed since checkpoint 1333
+4.22358
+1328
+8.283551 seconds elapsed since checkpoint 1334
+4.10191
+1329
+8.123102 seconds elapsed since checkpoint 1335
+3.93528
+1330
+8.062392 seconds elapsed since checkpoint 1336
+3.89792
+1331
+8.193016 seconds elapsed since checkpoint 1337
+4.26317
+1332
+8.26759 seconds elapsed since checkpoint 1338
+4.22963
+1333
+8.176185 seconds elapsed since checkpoint 1339
+4.68526
+1334
+8.023081 seconds elapsed since checkpoint 1340
+4.30925
+1335
+8.223777 seconds elapsed since checkpoint 1341
+3.89942
+1336
+8.253868 seconds elapsed since checkpoint 1342
+3.89089
+1337
+8.363191 seconds elapsed since checkpoint 1343
+4.54499
+1338
+8.098929 seconds elapsed since checkpoint 1344
+4.09461
+1339
+8.164333 seconds elapsed since checkpoint 1345
+3.89992
+1340
+8.222129 seconds elapsed since checkpoint 1346
+4.09863
+1341
+8.255599 seconds elapsed since checkpoint 1347
+4.08706
+1342
+8.080879 seconds elapsed since checkpoint 1348
+3.95122
+1343
+8.231781 seconds elapsed since checkpoint 1349
+4.09864
+1344
+8.201134 seconds elapsed since checkpoint 1350
+3.95569
+1345
+8.20747 seconds elapsed since checkpoint 1351
+4.06282
+1346
+8.081429 seconds elapsed since checkpoint 1352
+4.0892
+1347
+8.226582 seconds elapsed since checkpoint 1353
+4.2422
+1348
+8.182248 seconds elapsed since checkpoint 1354
+4.07073
+1349
+8.222539 seconds elapsed since checkpoint 1355
+4.88314
+1350
+8.15485 seconds elapsed since checkpoint 1356
+4.01127
+1351
+8.126608 seconds elapsed since checkpoint 1357
+4.45212
+1352
+8.379933 seconds elapsed since checkpoint 1358
+4.23382
+1353
+8.066994 seconds elapsed since checkpoint 1359
+4.24428
+1354
+8.196136 seconds elapsed since checkpoint 1360
+3.86268
+1355
+8.283282 seconds elapsed since checkpoint 1361
+4.64323
+1356
+8.245962 seconds elapsed since checkpoint 1362
+4.4729
+1357
+8.164539 seconds elapsed since checkpoint 1363
+3.84859
+1358
+8.128008 seconds elapsed since checkpoint 1364
+3.73573
+1359
+8.166283 seconds elapsed since checkpoint 1365
+4.19621
+1360
+8.196764 seconds elapsed since checkpoint 1366
+4.10726
+1361
+8.055746 seconds elapsed since checkpoint 1367
+4.32399
+1362
+8.105029 seconds elapsed since checkpoint 1368
+4.08809
+1363
+8.207872 seconds elapsed since checkpoint 1369
+4.57194
+1364
+8.208708 seconds elapsed since checkpoint 1370
+4.07552
+1365
+8.038106 seconds elapsed since checkpoint 1371
+4.55274
+1366
+8.092922 seconds elapsed since checkpoint 1372
+3.87787
+1367
+8.36381 seconds elapsed since checkpoint 1373
+3.78281
+1368
+8.212416 seconds elapsed since checkpoint 1374
+3.3451
+1369
+8.018749 seconds elapsed since checkpoint 1375
+3.45767
+1370
+8.188305 seconds elapsed since checkpoint 1376
+4.46778
+1371
+8.300629 seconds elapsed since checkpoint 1377
+4.09763
+1372
+8.193434 seconds elapsed since checkpoint 1378
+5.11686
+1373
+8.101624 seconds elapsed since checkpoint 1379
+4.49347
+1374
+8.226779 seconds elapsed since checkpoint 1380
+4.09773
+1375
+8.273041 seconds elapsed since checkpoint 1381
+4.25041
+1376
+8.210815 seconds elapsed since checkpoint 1382
+4.07494
+1377
+8.053069 seconds elapsed since checkpoint 1383
+3.62918
+1378
+8.117024 seconds elapsed since checkpoint 1384
+4.16496
+1379
+8.272061 seconds elapsed since checkpoint 1385
+3.96199
+1380
+8.186185 seconds elapsed since checkpoint 1386
+3.97739
+1381
+8.139597 seconds elapsed since checkpoint 1387
+4.54619
+1382
+8.29655 seconds elapsed since checkpoint 1388
+4.60406
+1383
+8.205872 seconds elapsed since checkpoint 1389
+4.1964
+1384
+8.212137 seconds elapsed since checkpoint 1390
+4.11997
+1385
+8.105659 seconds elapsed since checkpoint 1391
+3.92112
+1386
+8.218052 seconds elapsed since checkpoint 1392
+4.02014
+1387
+8.282428 seconds elapsed since checkpoint 1393
+3.84109
+1388
+8.240903 seconds elapsed since checkpoint 1394
+3.98545
+1389
+8.157637 seconds elapsed since checkpoint 1395
+4.09072
+1390
+8.21888 seconds elapsed since checkpoint 1396
+3.9549
+1391
+8.193496 seconds elapsed since checkpoint 1397
+3.98926
+1392
+8.217912 seconds elapsed since checkpoint 1398
+4.0263
+1393
+8.11299 seconds elapsed since checkpoint 1399
+3.89552
+1394
+8.256914 seconds elapsed since checkpoint 1400
+4.27628
+1395
+8.223846 seconds elapsed since checkpoint 1401
+4.74815
+1396
+8.165023 seconds elapsed since checkpoint 1402
+4.54875
+1397
+8.142831 seconds elapsed since checkpoint 1403
+4.11043
+1398
+8.2284 seconds elapsed since checkpoint 1404
+4.18007
+1399
+8.177599 seconds elapsed since checkpoint 1405
+4.23574
+1400
+8.157645 seconds elapsed since checkpoint 1406
+3.96501
+1401
+8.168097 seconds elapsed since checkpoint 1407
+4.03206
+1402
+8.258748 seconds elapsed since checkpoint 1408
+4.27276
+1403
+8.261616 seconds elapsed since checkpoint 1409
+4.19895
+1404
+8.113292 seconds elapsed since checkpoint 1410
+4.29755
+1405
+8.168557 seconds elapsed since checkpoint 1411
+3.90528
+1406
+8.294639 seconds elapsed since checkpoint 1412
+3.84134
+1407
+8.175523 seconds elapsed since checkpoint 1413
+4.13893
+1408
+8.19451 seconds elapsed since checkpoint 1414
+3.90107
+1409
+8.176138 seconds elapsed since checkpoint 1415
+4.10901
+1410
+8.253287 seconds elapsed since checkpoint 1416
+3.80071
+1411
+8.440409 seconds elapsed since checkpoint 1417
+3.66139
+1412
+8.098859 seconds elapsed since checkpoint 1418
+3.89756
+1413
+8.194455 seconds elapsed since checkpoint 1419
+4.00743
+1414
+8.138278 seconds elapsed since checkpoint 1420
+3.8794
+1415
+8.203542 seconds elapsed since checkpoint 1421
+3.54288
+1416
+8.109546 seconds elapsed since checkpoint 1422
+4.46643
+1417
+8.167229 seconds elapsed since checkpoint 1423
+4.78888
+1418
+8.134082 seconds elapsed since checkpoint 1424
+4.61784
+1419
+8.220433 seconds elapsed since checkpoint 1425
+3.88513
+1420
+8.037686 seconds elapsed since checkpoint 1426
+4.12374
+1421
+8.16936 seconds elapsed since checkpoint 1427
+3.80338
+1422
+8.256138 seconds elapsed since checkpoint 1428
+4.32108
+1423
+8.167771 seconds elapsed since checkpoint 1429
+4.22012
+1424
+8.088462 seconds elapsed since checkpoint 1430
+3.89597
+1425
+8.158183 seconds elapsed since checkpoint 1431
+4.15846
+1426
+8.408994 seconds elapsed since checkpoint 1432
+4.29786
+1427
+8.267262 seconds elapsed since checkpoint 1433
+4.34599
+1428
+8.150703 seconds elapsed since checkpoint 1434
+4.30507
+1429
+8.295677 seconds elapsed since checkpoint 1435
+4.65978
+1430
+8.23025 seconds elapsed since checkpoint 1436
+3.76902
+1431
+8.273093 seconds elapsed since checkpoint 1437
+3.88246
+1432
+8.124074 seconds elapsed since checkpoint 1438
+3.94377
+1433
+8.255916 seconds elapsed since checkpoint 1439
+3.90618
+1434
+8.205722 seconds elapsed since checkpoint 1440
+4.00073
+1435
+8.171465 seconds elapsed since checkpoint 1441
+3.82081
+1436
+8.093478 seconds elapsed since checkpoint 1442
+4.26792
+1437
+8.174687 seconds elapsed since checkpoint 1443
+4.35388
+1438
+8.152227 seconds elapsed since checkpoint 1444
+4.03043
+1439
+8.154572 seconds elapsed since checkpoint 1445
+3.78575
+1440
+8.041819 seconds elapsed since checkpoint 1446
+4.19487
+1441
+8.380264 seconds elapsed since checkpoint 1447
+4.09774
+1442
+8.17774 seconds elapsed since checkpoint 1448
+4.02904
+1443
+8.123442 seconds elapsed since checkpoint 1449
+4.55132
+1444
+8.196066 seconds elapsed since checkpoint 1450
+3.91393
+1445
+8.212595 seconds elapsed since checkpoint 1451
+4.49612
+1446
+8.215227 seconds elapsed since checkpoint 1452
+3.7571
+1447
+8.098134 seconds elapsed since checkpoint 1453
+4.31154
+1448
+8.24171 seconds elapsed since checkpoint 1454
+4.58148
+1449
+8.167626 seconds elapsed since checkpoint 1455
+4.26684
+1450
+8.205641 seconds elapsed since checkpoint 1456
+4.25552
+1451
+8.053564 seconds elapsed since checkpoint 1457
+4.75579
+1452
+8.263777 seconds elapsed since checkpoint 1458
+4.46785
+1453
+8.25054 seconds elapsed since checkpoint 1459
+3.95532
+1454
+8.202644 seconds elapsed since checkpoint 1460
+3.90474
+1455
+8.093474 seconds elapsed since checkpoint 1461
+3.89082
+1456
+8.354747 seconds elapsed since checkpoint 1462
+3.94602
+1457
+8.155523 seconds elapsed since checkpoint 1463
+3.87247
+1458
+8.146014 seconds elapsed since checkpoint 1464
+4.21076
+1459
+8.103684 seconds elapsed since checkpoint 1465
+4.16765
+1460
+8.144955 seconds elapsed since checkpoint 1466
+3.77103
+1461
+8.243452 seconds elapsed since checkpoint 1467
+3.92778
+1462
+8.275346 seconds elapsed since checkpoint 1468
+4.25839
+1463
+8.133469 seconds elapsed since checkpoint 1469
+4.14626
+1464
+8.267321 seconds elapsed since checkpoint 1470
+4.19782
+1465
+8.147889 seconds elapsed since checkpoint 1471
+4.17096
+1466
+8.23276 seconds elapsed since checkpoint 1472
+4.02429
+1467
+8.115005 seconds elapsed since checkpoint 1473
+4.00308
+1468
+8.262986 seconds elapsed since checkpoint 1474
+4.35475
+1469
+8.240404 seconds elapsed since checkpoint 1475
+4.35132
+1470
+8.459499 seconds elapsed since checkpoint 1476
+4.15142
+1471
+8.032047 seconds elapsed since checkpoint 1477
+3.9792
+1472
+8.171709 seconds elapsed since checkpoint 1478
+4.16903
+1473
+8.159531 seconds elapsed since checkpoint 1479
+5.97668
+1474
+8.180253 seconds elapsed since checkpoint 1480
+4.45413
+1475
+8.088062 seconds elapsed since checkpoint 1481
+3.9462
+1476
+8.226284 seconds elapsed since checkpoint 1482
+3.91676
+1477
+8.28927 seconds elapsed since checkpoint 1483
+3.6948
+1478
+8.190929 seconds elapsed since checkpoint 1484
+3.92076
+1479
+8.099073 seconds elapsed since checkpoint 1485
+4.45122
+1480
+8.216132 seconds elapsed since checkpoint 1486
+4.45798
+1481
+8.252623 seconds elapsed since checkpoint 1487
+4.51123
+1482
+8.216889 seconds elapsed since checkpoint 1488
+3.95884
+1483
+8.146353 seconds elapsed since checkpoint 1489
+4.37094
+1484
+8.146434 seconds elapsed since checkpoint 1490
+3.6212
+1485
+8.445455 seconds elapsed since checkpoint 1491
+3.97487
+1486
+8.091213 seconds elapsed since checkpoint 1492
+4.00184
+1487
+8.18208 seconds elapsed since checkpoint 1493
+4.39057
+1488
+8.205175 seconds elapsed since checkpoint 1494
+3.99574
+1489
+8.172627 seconds elapsed since checkpoint 1495
+4.39849
+1490
+8.067862 seconds elapsed since checkpoint 1496
+3.94554
+1491
+8.153624 seconds elapsed since checkpoint 1497
+3.95761
+1492
+8.16563 seconds elapsed since checkpoint 1498
+3.98346
+1493
+8.211052 seconds elapsed since checkpoint 1499
+3.98332
+1494
+8.064734 seconds elapsed since checkpoint 1500
+4.03115
+1495
+8.211404 seconds elapsed since checkpoint 1501
+4.2221
+1496
+8.258314 seconds elapsed since checkpoint 1502
+3.99418
+1497
+8.220386 seconds elapsed since checkpoint 1503
+3.97235
+1498
+8.111856 seconds elapsed since checkpoint 1504
+3.95197
+1499
+8.214962 seconds elapsed since checkpoint 1505
+3.71201
+1500
+8.413792 seconds elapsed since checkpoint 1506
+4.19701
+1501
+8.269222 seconds elapsed since checkpoint 1507
+3.85612
+1502
+8.128427 seconds elapsed since checkpoint 1508
+3.83779
+1503
+8.21243 seconds elapsed since checkpoint 1509
+4.22981
+1504
+8.176311 seconds elapsed since checkpoint 1510
+3.93923
+1505
+8.198489 seconds elapsed since checkpoint 1511
+4.1193
+1506
+8.153892 seconds elapsed since checkpoint 1512
+5.10865
+1507
+8.151111 seconds elapsed since checkpoint 1513
+4.52422
+1508
+8.177027 seconds elapsed since checkpoint 1514
+3.92661
+1509
+8.290971 seconds elapsed since checkpoint 1515
+3.73374
+1510
+8.107829 seconds elapsed since checkpoint 1516
+3.34378
+1511
+8.186496 seconds elapsed since checkpoint 1517
+4.14178
+1512
+8.269265 seconds elapsed since checkpoint 1518
+3.93555
+1513
+8.222213 seconds elapsed since checkpoint 1519
+4.29983
+1514
+8.088156 seconds elapsed since checkpoint 1520
+3.79642
+1515
+8.375351 seconds elapsed since checkpoint 1521
+4.18375
+1516
+8.254883 seconds elapsed since checkpoint 1522
+4.62625
+1517
+8.201741 seconds elapsed since checkpoint 1523
+4.0041
+1518
+8.172464 seconds elapsed since checkpoint 1524
+3.81191
+1519
+8.228018 seconds elapsed since checkpoint 1525
+3.91161
+1520
+8.234892 seconds elapsed since checkpoint 1526
+3.98625
+1521
+8.291876 seconds elapsed since checkpoint 1527
+3.70203
+1522
+8.127361 seconds elapsed since checkpoint 1528
+4.04243
+1523
+8.274252 seconds elapsed since checkpoint 1529
+3.99348
+1524
+8.236605 seconds elapsed since checkpoint 1530
+3.81048
+1525
+8.244925 seconds elapsed since checkpoint 1531
+4.9095
+1526
+8.136395 seconds elapsed since checkpoint 1532
+4.02694
+1527
+8.240111 seconds elapsed since checkpoint 1533
+4.50401
+1528
+8.250309 seconds elapsed since checkpoint 1534
+3.88545
+1529
+8.232178 seconds elapsed since checkpoint 1535
+3.87309
+1530
+8.239653 seconds elapsed since checkpoint 1536
+3.82223
+1531
+8.246518 seconds elapsed since checkpoint 1537
+3.71799
+1532
+8.242996 seconds elapsed since checkpoint 1538
+3.83105
+1533
+8.046594 seconds elapsed since checkpoint 1539
+3.90286
+1534
+8.142284 seconds elapsed since checkpoint 1540
+3.71449
+1535
+8.160096 seconds elapsed since checkpoint 1541
+4.10807
+1536
+8.197805 seconds elapsed since checkpoint 1542
+3.5618
+1537
+8.036981 seconds elapsed since checkpoint 1543
+3.58673
+1538
+8.207986 seconds elapsed since checkpoint 1544
+3.70307
+1539
+8.243068 seconds elapsed since checkpoint 1545
+3.9018
+1540
+8.303991 seconds elapsed since checkpoint 1546
+4.37729
+1541
+8.12774 seconds elapsed since checkpoint 1547
+3.84643
+1542
+8.188306 seconds elapsed since checkpoint 1548
+4.25965
+1543
+8.242345 seconds elapsed since checkpoint 1549
+5.14371
+1544
+8.431035 seconds elapsed since checkpoint 1550
+4.40696
+1545
+8.1402 seconds elapsed since checkpoint 1551
+3.82445
+1546
+8.136399 seconds elapsed since checkpoint 1552
+3.97765
+1547
+8.18439 seconds elapsed since checkpoint 1553
+3.91433
+1548
+8.236789 seconds elapsed since checkpoint 1554
+4.11327
+1549
+8.089283 seconds elapsed since checkpoint 1555
+3.56265
+1550
+8.176302 seconds elapsed since checkpoint 1556
+4.0193
+1551
+8.238069 seconds elapsed since checkpoint 1557
+4.00367
+1552
+8.274936 seconds elapsed since checkpoint 1558
+4.28669
+1553
+8.053029 seconds elapsed since checkpoint 1559
+3.50438
+1554
+8.206587 seconds elapsed since checkpoint 1560
+5.51167
+1555
+8.219459 seconds elapsed since checkpoint 1561
+5.10864
+1556
+8.166684 seconds elapsed since checkpoint 1562
+3.19186
+1557
+8.155909 seconds elapsed since checkpoint 1563
+6.77063
+1558
+8.194672 seconds elapsed since checkpoint 1564
+3.9657
+1559
+8.376264 seconds elapsed since checkpoint 1565
+5.53574
+悚献政汉﹝悚汉悚献献怖献献悚稍献﹝献献汉﹝汉怖徽徽汉献献献献献献汉汉徽献献献献献汉忠献怖冀献献怖献献汉冀献汉稍徽献献献稍献嘘怖献怖献献献汉汉献汉怖献怖汉献献汉献献献汉汉献汉献嘘﹝怖坛汉嘘献汉献献悚冀献汉献汉稍汉献﹝嘘嘘献献怖献汉献汉怖汉嘘献献汉汉献汉献汉献怖献献怖献汉汉忠献献献献汉献汉献汉献汉汉汉∽冀汉献忠汉汉献冀嘘汉忠汉忠献献汉嘘嘘献献献献献献﹝献汉献怖怖汉怖献汉﹝嘘汉献献悚嘘忠献献忠冀献汉献献献嘘冀献忠稍汉汉怖献献怖徽献献汉嘘献汉怖献汉献汉献政献汉汉献嘘献汉汉汉献汉嘘献献嘘献汉献汉献冀汉怖怖﹝献献献献献!汉献嘘嘘献汉献献献献献献献献汉汉怖献汉绸献献怖献怖汉怖汉汉献悚冀汉汉汉汉汉汉献献汉徽献汉嘘献汉献献汉忠汉汉献嘘献献献怖汉献汉﹝献献怖献汉汉嘘献政汉嘘徽汉汉汉汉献徽汉献怖忠献政嘘汉献怖献献汉献嘘献汉献怖献献玻汉献献汉汉献冀忠献冀汉献汉汉怖汉献献汉汉汉汉汉汉忠嘘汉汉献玻汉献汉忠﹝献汉汉嘘嘘汉汉汉汉嘘忠嘘献献献嘘献嘘汉忠献汉汉汉献献嘘献冀汉嘘怖汉献汉献汉嘘汉献献汉献怖献汉献献汉献汉献汉汉献献怖献献汉献献汉徽献汉怖献汉献献献﹝汉冀汉怖献献汉献绸汉献汉汉汉献献汉献献怖献汉﹝献献怖献怖怖献献献汉献献稍汉怖汉献献汉﹝献汉汉献献献﹝忠汉献献悚献汉汉献汉献献玻冀汉怖汉嘘嘘汉汉汉嘘献献嘘献嘘嘘汉汉汉献献怖献献献汉怖献﹝怖献献献献献汉汉献怖汉献献嘘献汉冀献嘘汉怖献献献献怖献献政冀献献怖怖献献献徽献献稍汉怖献献献汉汉献献稍汉献嘘怖献嘘怖冀献献汉献怖献政献献献汉﹝汉汉献汉献怖汉献献﹝汉﹝献忠献汉献怖嘘汉献献汉献献献献献怪汉嘘献嘘献献嘘献汉汉献献﹝汉献悚献献汉献献怖献献汉怖冀怖汉献献献献汉献汉汉献献献汉献献献献献﹝汉献汉汉献汉献汉汉献献献嘘汉献汉献徽献汉献汉献献献汉稍﹝献献汉怖献怖献汉献稍献献汉汉稍怖汉献﹝献汉汉献汉献汉献怖悚献忠汉献献献﹝汉忠﹝汉献稍献汉嘘汉汉献献献忠献忠献献嘘嘘献嘘嘘﹝献汉嘘献嘘献献献献怖怖献献献献怖怖汉稍汉汉献汉汉嘘汉献献献献汉献汉汉献献献献献汉献﹝汉汉汉献献汉冀嘘献献献怖献怖冀献献献怖冀汉献汉徽徽献汉献嘘汉汉政汉怖冀﹝冀献汉汉献献献献汉献汉忠献嘘献怖献徽献献汉献献献怖献汉稍献怖怖献献怖汉献汉献献忠献汉献Traceback (most recent call last):
+  File "/home/mumingpo/PycharmProjects/RNN_dzz/t2.py", line 130, in <module>
+    main()
+  File "/home/mumingpo/PycharmProjects/RNN_dzz/t2.py", line 124, in main
+    chaps.append(write_chapter(cell_stack, n2c, c2n, W, bias, max_length, sess))
+  File "/home/mumingpo/PycharmProjects/RNN_dzz/t2.py", line 43, in write_chapter
+    argmaxindex, _ = max(enumerate(sess.run(out)[-1]), key=lambda x: x[1])
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow/python/client/session.py", line 789, in run
+    run_metadata_ptr)
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow/python/client/session.py", line 997, in _run
+    feed_dict_string, options, run_metadata)
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow/python/client/session.py", line 1132, in _do_run
+    target_list, options, run_metadata)
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow/python/client/session.py", line 1139, in _do_call
+    return fn(*args)
+  File "/usr/local/lib/python3.5/dist-packages/tensorflow/python/client/session.py", line 1121, in _run_fn
+    status, run_metadata)
+KeyboardInterrupt
+
+Process finished with exit code 137 (interrupted by signal 9: SIGKILL)
